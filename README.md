@@ -30,7 +30,7 @@ Summary of (8 template engines)
 | [Handlebars.Net](https://github.com/Handlebars-Net/Handlebars.Net) ⭐ 1,461 \| 🐛 7 \| 🌐 C# \| 📅 2026-08-09 | A port of Handlebars.js to .NET that compiles templates directly to IL bytecode | 1449⭐ | 239🍴 | 2024-04-03  | 2.1.6 (2024-04-03)    | 🔴     |
 | [MJML.Net](https://github.com/SebastianStehle/mjml-net) ⭐ 265 \| 🐛 0 \| 🌐 C# \| 📅 2026-08-04              | A fast port of MJML 4 to .NET 6 & 7                                             | 256⭐  | 21🍴  | 2026-04-17  | N/A                   | 🟢     |
 | [RazorLight](https://github.com/toddams/RazorLight) ⭐ 1,661 \| 🐛 77 \| 🌐 C# \| 📅 2024-07-06               | Template engine for building templates from Files outside of ASP.NET MVC        | 1656⭐ | 269🍴 | 2024-07-06  | v2.3.1 (2023-01-16)   | 🔴     |
-| [Scriban](https://github.com/scriban/scriban) ⭐ 3,956 \| 🐛 0 \| 🌐 C# \| 📅 2026-07-29                      | Fast and lightweight scripting language for .NET with liquid compatibility mode | 3897⭐ | 406🍴 | 2026-05-30  | 7.2.3 (2026-05-30)    | 🟢     |
+| [Scriban](https://github.com/scriban/scriban) ⭐ 3,957 \| 🐛 0 \| 🌐 C# \| 📅 2026-07-29                      | Fast and lightweight scripting language for .NET with liquid compatibility mode | 3897⭐ | 406🍴 | 2026-05-30  | 7.2.3 (2026-05-30)    | 🟢     |
 | [Spark](https://github.com/SparkViewEngine/spark) ⭐ 255 \| 🐛 8 \| 🌐 C# \| 📅 2025-09-11                    | View engine for ASP.NET MVC with syntax inspired by Jade/Haml                   | 254⭐  | 84🍴  | 2025-09-11  | v1.8.1.0 (2015-06-10) | 🟢     |
 | [Stubble](https://github.com/StubbleOrg/Stubble) ⭐ 448 \| 🐛 19 \| 🌐 C# \| 📅 2023-07-19                    | Trimmed down {{mustache}} templates in .NET                                     | 446⭐  | 61🍴  | 2022-09-23  | v1.10.8 (2022-08-29)  | 🔴     |
 
@@ -156,7 +156,7 @@ Summary of (15 template engines)
 
 | Engine                                                                                                                    | Description                                                                          | Stars  | Forks   | Last Update | Latest Release        | Status |
 | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------ | ------- | ----------- | --------------------- | ------ |
-| [Blade](https://github.com/laravel/framework/tree/10.x/src/Illuminate/View) ⭐ 34,873 \| 🐛 100 \| 🌐 PHP \| 📅 2026-08-18 | The simple yet powerful templating engine provided with Laravel                      | 34737⭐ | 11896🍴 | 2026-05-31  | v13.12.0 (2026-05-26) | 🟢     |
+| [Blade](https://github.com/laravel/framework/tree/10.x/src/Illuminate/View) ⭐ 34,874 \| 🐛 101 \| 🌐 PHP \| 📅 2026-08-18 | The simple yet powerful templating engine provided with Laravel                      | 34737⭐ | 11896🍴 | 2026-05-31  | v13.12.0 (2026-05-26) | 🟢     |
 | [Blade One](https://github.com/EFTEC/BladeOne) ⭐ 829 \| 🐛 17 \| 🌐 PHP \| 📅 2025-09-03                                  | A standalone version of Laravel's Blade templating engine for use outside of Laravel | 824⭐   | 123🍴   | 2025-09-03  | 4.19.1 (2025-09-03)   | 🟢     |
 | [Dwoo](https://github.com/dwoo-project/dwoo) ⚠️ Archived                                                                  | A PHP5/PHP7 template engine which follows Smarty's footsteps                         | 168⭐   | 57🍴    | 2018-07-25  | 1.3.7 (2018-04-18)    | 🔴     |
 | [Fenom](https://github.com/fenom-template/fenom) ⭐ 445 \| 🐛 17 \| 🌐 PHP \| 📅 2026-04-26                                | A fast template engine for PHP with syntax similar to Smarty                         | 443⭐   | 106🍴   | 2026-04-26  | v3.1.0 (2026-04-23)   | 🟢     |
@@ -222,7 +222,7 @@ Summary of (6 template engines)
 | [Maud](https://github.com/lambda-fairy/maud) ⭐ 2,625 \| 🐛 64 \| 🌐 Rust \| 📅 2026-05-25                  | An HTML template engine implemented as a Rust macro                | 2583⭐ | 171🍴 | 2026-05-25  | v0.27.0 (2025-02-02) | 🟢     |
 | [Rust-Mustache](https://github.com/nickel-org/rust-mustache) ⭐ 224 \| 🐛 23 \| 🌐 Rust \| 📅 2023-11-26    | A Rust implementation of Mustache specification                    | 224⭐  | 68🍴  | 2021-06-22  | v0.9.0 (2018-02-12)  | 🔴     |
 | [SailFish](https://github.com/rust-sailfish/sailfish) ⭐ 988 \| 🐛 34 \| 🌐 Rust \| 📅 2026-08-11           | A simple template engine with EJS-like syntax and built-in filters | 979⭐  | 63🍴  | 2026-05-08  | v0.11.1 (2026-05-05) | 🟢     |
-| [Tera](https://github.com/Keats/tera) ⭐ 4,289 \| 🐛 13 \| 🌐 Rust \| 📅 2026-08-18                         | A template engine inspired by Jinja2 and Django template language  | 4213⭐ | 321🍴 | 2026-05-06  | v1.20.1 (2025-10-30) | 🟢     |
+| [Tera](https://github.com/Keats/tera) ⭐ 4,289 \| 🐛 13 \| 🌐 Rust \| 📅 2026-08-19                         | A template engine inspired by Jinja2 and Django template language  | 4213⭐ | 321🍴 | 2026-05-06  | v1.20.1 (2025-10-30) | 🟢     |
 
 ## Scala
 
