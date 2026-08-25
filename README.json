@@ -450,7 +450,7 @@
             "archived": false,
             "id": 18845068,
             "language": "Java",
-            "last_commit": "2026-08-22T20:57:11Z",
+            "last_commit": "2026-08-25T08:25:36Z",
             "owner": "google",
             "repo": "closure-templates",
             "stars": 698
@@ -774,7 +774,7 @@
             "last_commit": "2026-08-10T19:03:48Z",
             "owner": "mde",
             "repo": "ejs",
-            "stars": 8119
+            "stars": 8120
           }
         },
         {
@@ -789,7 +789,7 @@
             "last_commit": "2026-06-24T23:40:45Z",
             "owner": "handlebars-lang",
             "repo": "handlebars.js",
-            "stars": 18669
+            "stars": 18670
           }
         },
         {
@@ -909,7 +909,7 @@
             "last_commit": "2026-03-13T15:12:43Z",
             "owner": "pugjs",
             "repo": "pug",
-            "stars": 21851
+            "stars": 21852
           }
         },
         {
@@ -1023,7 +1023,7 @@
             "archived": false,
             "id": 7548986,
             "language": "PHP",
-            "last_commit": "2026-08-25T01:16:21Z",
+            "last_commit": "2026-08-25T10:52:42Z",
             "owner": "laravel",
             "repo": "framework",
             "stars": 34878
@@ -1113,7 +1113,7 @@
             "archived": false,
             "id": 378226,
             "language": "PHP",
-            "last_commit": "2026-08-24T01:42:45Z",
+            "last_commit": "2026-08-25T07:14:25Z",
             "owner": "sebastianbergmann",
             "repo": "php-text-template",
             "stars": 7426
@@ -1302,7 +1302,7 @@
             "last_commit": "2025-06-14T20:35:04Z",
             "owner": "pallets",
             "repo": "jinja",
-            "stars": 11746
+            "stars": 11747
           }
         },
         {
@@ -1317,7 +1317,7 @@
             "last_commit": "2026-03-30T14:23:57Z",
             "owner": "google",
             "repo": "jsonnet",
-            "stars": 7559
+            "stars": 7560
           }
         },
         {
@@ -1775,7 +1775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:40:20.862Z",
+    "last_updated": "2026-08-25T11:03:34.853Z",
     "original_repository": "sshailabh/awesome-template-engine",
     "original_repository_id": 758307748,
     "original_repository_sha": "49b7bea3ee44596968440a1b745eb547fbb815e1",
