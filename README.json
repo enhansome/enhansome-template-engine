@@ -15,7 +15,7 @@
             "last_commit": "2025-04-02T14:26:26Z",
             "owner": "dotliquid",
             "repo": "dotliquid",
-            "stars": 1095
+            "stars": 1096
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-23T18:45:44Z",
             "owner": "sebastienros",
             "repo": "fluid",
-            "stars": 1771
+            "stars": 1772
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-18T06:26:06Z",
             "owner": "pantor",
             "repo": "inja",
-            "stars": 1959
+            "stars": 1961
           }
         },
         {
@@ -297,7 +297,7 @@
             "last_commit": "2026-08-21T07:01:19Z",
             "owner": "CloudyKit",
             "repo": "jet",
-            "stars": 1401
+            "stars": 1402
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2026-05-02T14:30:49Z",
             "owner": "flosch",
             "repo": "pongo2",
-            "stars": 3082
+            "stars": 3083
           }
         },
         {
@@ -543,7 +543,7 @@
             "last_commit": "2026-08-09T21:25:08Z",
             "owner": "casid",
             "repo": "jte",
-            "stars": 1129
+            "stars": 1130
           }
         },
         {
@@ -558,7 +558,7 @@
             "last_commit": "2026-08-19T15:02:27Z",
             "owner": "manifold-systems",
             "repo": "manifold",
-            "stars": 2760
+            "stars": 2759
           }
         },
         {
@@ -699,7 +699,7 @@
             "last_commit": "2026-04-07T23:05:21Z",
             "owner": "carboneio",
             "repo": "carbone",
-            "stars": 2096
+            "stars": 2098
           }
         },
         {
@@ -774,7 +774,7 @@
             "last_commit": "2026-08-10T19:03:48Z",
             "owner": "mde",
             "repo": "ejs",
-            "stars": 8120
+            "stars": 8121
           }
         },
         {
@@ -816,7 +816,7 @@
             "archived": false,
             "id": 274370298,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T21:33:48Z",
+            "last_commit": "2026-08-25T21:20:07Z",
             "owner": "StefanoBalocco",
             "repo": "jTDAL",
             "stars": 2
@@ -846,7 +846,7 @@
             "archived": false,
             "id": 15720445,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T04:11:25Z",
+            "last_commit": "2026-08-25T23:59:28Z",
             "owner": "marko-js",
             "repo": "marko",
             "stars": 14407
@@ -864,7 +864,7 @@
             "last_commit": "2026-08-17T11:50:39Z",
             "owner": "mjmlio",
             "repo": "mjml",
-            "stars": 18210
+            "stars": 18212
           }
         },
         {
@@ -894,7 +894,7 @@
             "last_commit": "2024-06-14T19:54:48Z",
             "owner": "janl",
             "repo": "mustache.js",
-            "stars": 16723
+            "stars": 16724
           }
         },
         {
@@ -1023,10 +1023,10 @@
             "archived": false,
             "id": 7548986,
             "language": "PHP",
-            "last_commit": "2026-08-25T10:52:42Z",
+            "last_commit": "2026-08-25T20:59:17Z",
             "owner": "laravel",
             "repo": "framework",
-            "stars": 34878
+            "stars": 34884
           }
         },
         {
@@ -1173,7 +1173,7 @@
             "archived": false,
             "id": 25987947,
             "language": "PHP",
-            "last_commit": "2026-07-04T11:37:14Z",
+            "last_commit": "2026-08-25T19:49:11Z",
             "owner": "smarty-php",
             "repo": "smarty",
             "stars": 2347
@@ -1218,7 +1218,7 @@
             "archived": false,
             "id": 556993089,
             "language": "PHP",
-            "last_commit": "2026-08-12T13:31:01Z",
+            "last_commit": "2026-08-26T06:42:57Z",
             "owner": "phalcon",
             "repo": "volt",
             "stars": 12
@@ -1302,7 +1302,7 @@
             "last_commit": "2025-06-14T20:35:04Z",
             "owner": "pallets",
             "repo": "jinja",
-            "stars": 11747
+            "stars": 11750
           }
         },
         {
@@ -1317,7 +1317,7 @@
             "last_commit": "2026-03-30T14:23:57Z",
             "owner": "google",
             "repo": "jsonnet",
-            "stars": 7560
+            "stars": 7562
           }
         },
         {
@@ -1458,7 +1458,7 @@
             "last_commit": "2026-08-07T16:30:57Z",
             "owner": "Shopify",
             "repo": "liquid",
-            "stars": 11869
+            "stars": 11871
           }
         },
         {
@@ -1509,7 +1509,7 @@
             "last_commit": "2026-08-20T18:44:46Z",
             "owner": "cobalt-org",
             "repo": "liquid-rust",
-            "stars": 582
+            "stars": 583
           }
         },
         {
@@ -1524,7 +1524,7 @@
             "last_commit": "2026-05-25T11:45:34Z",
             "owner": "lambda-fairy",
             "repo": "maud",
-            "stars": 2625
+            "stars": 2624
           }
         },
         {
@@ -1551,7 +1551,7 @@
             "archived": false,
             "id": 268711126,
             "language": "Rust",
-            "last_commit": "2026-08-11T15:26:43Z",
+            "last_commit": "2026-08-25T15:53:12Z",
             "owner": "rust-sailfish",
             "repo": "sailfish",
             "stars": 989
@@ -1566,10 +1566,10 @@
             "archived": false,
             "id": 39272160,
             "language": "Rust",
-            "last_commit": "2026-08-24T12:54:46Z",
+            "last_commit": "2026-08-25T20:44:39Z",
             "owner": "Keats",
             "repo": "tera",
-            "stars": 4295
+            "stars": 4296
           }
         }
       ],
@@ -1737,7 +1737,7 @@
             "last_commit": "2026-04-25T18:35:44Z",
             "owner": "bgub",
             "repo": "eta",
-            "stars": 1755
+            "stars": 1754
           }
         },
         {
@@ -1775,7 +1775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T11:03:34.853Z",
+    "last_updated": "2026-08-26T11:05:47.665Z",
     "original_repository": "sshailabh/awesome-template-engine",
     "original_repository_id": 758307748,
     "original_repository_sha": "49b7bea3ee44596968440a1b745eb547fbb815e1",
