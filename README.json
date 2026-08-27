@@ -60,7 +60,7 @@
             "last_commit": "2026-08-04T07:16:27Z",
             "owner": "SebastianStehle",
             "repo": "mjml-net",
-            "stars": 266
+            "stars": 267
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-07-29T07:22:51Z",
             "owner": "scriban",
             "repo": "scriban",
-            "stars": 3960
+            "stars": 3963
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-18T06:26:06Z",
             "owner": "pantor",
             "repo": "inja",
-            "stars": 1961
+            "stars": 1962
           }
         },
         {
@@ -357,7 +357,7 @@
             "last_commit": "2024-07-21T02:16:20Z",
             "owner": "valyala",
             "repo": "quicktemplate",
-            "stars": 3325
+            "stars": 3326
           }
         },
         {
@@ -405,7 +405,7 @@
             "archived": false,
             "id": 41902290,
             "language": "Java",
-            "last_commit": "2026-08-23T19:49:02Z",
+            "last_commit": "2026-08-27T07:50:15Z",
             "owner": "apache",
             "repo": "freemarker",
             "stars": 1112
@@ -498,7 +498,7 @@
             "last_commit": "2026-08-03T14:33:34Z",
             "owner": "HubSpot",
             "repo": "jinjava",
-            "stars": 784
+            "stars": 785
           }
         },
         {
@@ -513,7 +513,7 @@
             "last_commit": "2026-08-14T07:22:54Z",
             "owner": "samskivert",
             "repo": "jmustache",
-            "stars": 879
+            "stars": 881
           }
         },
         {
@@ -543,7 +543,7 @@
             "last_commit": "2026-08-09T21:25:08Z",
             "owner": "casid",
             "repo": "jte",
-            "stars": 1130
+            "stars": 1132
           }
         },
         {
@@ -558,7 +558,7 @@
             "last_commit": "2026-08-19T15:02:27Z",
             "owner": "manifold-systems",
             "repo": "manifold",
-            "stars": 2759
+            "stars": 2760
           }
         },
         {
@@ -585,10 +585,10 @@
             "archived": false,
             "id": 7334654,
             "language": "Java",
-            "last_commit": "2026-08-24T16:44:19Z",
+            "last_commit": "2026-08-26T14:59:58Z",
             "owner": "PebbleTemplates",
             "repo": "pebble",
-            "stars": 1194
+            "stars": 1195
           }
         },
         {
@@ -618,7 +618,7 @@
             "last_commit": "2026-01-21T15:33:27Z",
             "owner": "fizzed",
             "repo": "rocker",
-            "stars": 781
+            "stars": 782
           }
         },
         {
@@ -648,7 +648,7 @@
             "last_commit": "2023-10-10T21:19:55Z",
             "owner": "trimou",
             "repo": "trimou",
-            "stars": 87
+            "stars": 88
           }
         }
       ],
@@ -834,7 +834,7 @@
             "last_commit": "2026-07-03T19:48:01Z",
             "owner": "lodash",
             "repo": "lodash",
-            "stars": 61290
+            "stars": 61284
           }
         },
         {
@@ -846,7 +846,7 @@
             "archived": false,
             "id": 15720445,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T23:59:28Z",
+            "last_commit": "2026-08-26T21:18:29Z",
             "owner": "marko-js",
             "repo": "marko",
             "stars": 14407
@@ -864,7 +864,7 @@
             "last_commit": "2026-08-17T11:50:39Z",
             "owner": "mjmlio",
             "repo": "mjml",
-            "stars": 18212
+            "stars": 18210
           }
         },
         {
@@ -909,7 +909,7 @@
             "last_commit": "2026-03-13T15:12:43Z",
             "owner": "pugjs",
             "repo": "pug",
-            "stars": 21852
+            "stars": 21853
           }
         },
         {
@@ -1023,7 +1023,7 @@
             "archived": false,
             "id": 7548986,
             "language": "PHP",
-            "last_commit": "2026-08-25T20:59:17Z",
+            "last_commit": "2026-08-26T13:29:55Z",
             "owner": "laravel",
             "repo": "framework",
             "stars": 34884
@@ -1113,7 +1113,7 @@
             "archived": false,
             "id": 378226,
             "language": "PHP",
-            "last_commit": "2026-08-25T07:14:25Z",
+            "last_commit": "2026-08-27T12:04:32Z",
             "owner": "sebastianbergmann",
             "repo": "php-text-template",
             "stars": 7426
@@ -1203,10 +1203,10 @@
             "archived": false,
             "id": 330275,
             "language": "PHP",
-            "last_commit": "2026-08-23T09:02:00Z",
+            "last_commit": "2026-08-27T10:17:18Z",
             "owner": "twigphp",
             "repo": "Twig",
-            "stars": 8374
+            "stars": 8375
           }
         },
         {
@@ -1218,7 +1218,7 @@
             "archived": false,
             "id": 556993089,
             "language": "PHP",
-            "last_commit": "2026-08-26T06:42:57Z",
+            "last_commit": "2026-08-26T21:31:13Z",
             "owner": "phalcon",
             "repo": "volt",
             "stars": 12
@@ -1302,7 +1302,7 @@
             "last_commit": "2025-06-14T20:35:04Z",
             "owner": "pallets",
             "repo": "jinja",
-            "stars": 11750
+            "stars": 11752
           }
         },
         {
@@ -1443,7 +1443,7 @@
             "last_commit": "2026-06-01T17:42:54Z",
             "owner": "rails",
             "repo": "jbuilder",
-            "stars": 4420
+            "stars": 4421
           }
         },
         {
@@ -1458,7 +1458,7 @@
             "last_commit": "2026-08-07T16:30:57Z",
             "owner": "Shopify",
             "repo": "liquid",
-            "stars": 11871
+            "stars": 11872
           }
         },
         {
@@ -1506,7 +1506,7 @@
             "archived": false,
             "id": 26390085,
             "language": "Rust",
-            "last_commit": "2026-08-20T18:44:46Z",
+            "last_commit": "2026-08-27T01:37:03Z",
             "owner": "cobalt-org",
             "repo": "liquid-rust",
             "stars": 583
@@ -1566,10 +1566,10 @@
             "archived": false,
             "id": 39272160,
             "language": "Rust",
-            "last_commit": "2026-08-25T20:44:39Z",
+            "last_commit": "2026-08-26T21:10:10Z",
             "owner": "Keats",
             "repo": "tera",
-            "stars": 4296
+            "stars": 4297
           }
         }
       ],
@@ -1737,7 +1737,7 @@
             "last_commit": "2026-04-25T18:35:44Z",
             "owner": "bgub",
             "repo": "eta",
-            "stars": 1754
+            "stars": 1756
           }
         },
         {
@@ -1775,9 +1775,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T11:05:47.665Z",
-    "original_repository": "sshailabh/awesome-template-engine",
-    "original_repository_id": 758307748,
+    "last_updated": "2026-08-27T12:08:51.010Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 758307748,
+      "language": "Python",
+      "last_commit": "2026-08-16T01:38:55Z",
+      "owner": "sshailabh",
+      "repo": "awesome-template-engine",
+      "stars": 73
+    },
     "original_repository_sha": "49b7bea3ee44596968440a1b745eb547fbb815e1",
     "enhanced_repository": "enhansome/enhansome-template-engine",
     "enhanced_repository_description": null,
