@@ -298,7 +298,7 @@
             "open_issues": 30,
             "owner": "no1msd",
             "repo": "mstch",
-            "stars": 597,
+            "stars": 598,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
@@ -784,7 +784,7 @@
             "open_issues": 140,
             "owner": "jknack",
             "repo": "handlebars.java",
-            "stars": 1562,
+            "stars": 1561,
             "topics": [
               "handlebars",
               "template-engine",
@@ -907,7 +907,7 @@
             "open_issues": 54,
             "owner": "casid",
             "repo": "jte",
-            "stars": 1132,
+            "stars": 1133,
             "topics": [
               "html",
               "intellij",
@@ -998,7 +998,7 @@
             "open_issues": 28,
             "owner": "PebbleTemplates",
             "repo": "pebble",
-            "stars": 1195,
+            "stars": 1196,
             "topics": [
               "java",
               "java-template-engine"
@@ -1453,7 +1453,7 @@
             "open_issues": 69,
             "owner": "mjmlio",
             "repo": "mjml",
-            "stars": 18212,
+            "stars": 18214,
             "topics": [
               "email",
               "email-boilerplate",
@@ -1696,7 +1696,7 @@
             "open_issues": 95,
             "owner": "laravel",
             "repo": "framework",
-            "stars": 34887,
+            "stars": 34888,
             "topics": [
               "framework",
               "laravel",
@@ -1987,8 +1987,8 @@
             "id": 330275,
             "language": "PHP",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-28T22:19:36Z",
-            "open_issues": 38,
+            "last_commit": "2026-08-29T08:08:43Z",
+            "open_issues": 40,
             "owner": "twigphp",
             "repo": "Twig",
             "stars": 8373,
@@ -2139,10 +2139,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2025-06-14T20:35:04Z",
-            "open_issues": 102,
+            "open_issues": 103,
             "owner": "pallets",
             "repo": "jinja",
-            "stars": 11754,
+            "stars": 11753,
             "topics": [
               "jinja",
               "jinja2",
@@ -2495,7 +2495,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-05-25T11:45:34Z",
-            "open_issues": 64,
+            "open_issues": 66,
             "owner": "lambda-fairy",
             "repo": "maud",
             "stars": 2625,
@@ -2914,7 +2914,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:03:47.655Z",
+    "last_updated": "2026-08-29T15:19:05.055Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of references for template engines",
