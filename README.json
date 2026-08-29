@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ".NET Port of Tobias Lütke's Liquid template language.",
+            "homepage": "https://www.dotliquid.org",
             "id": 847744,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2025-04-02T14:26:26Z",
+            "open_issues": 63,
             "owner": "dotliquid",
             "repo": "dotliquid",
-            "stars": 1096
+            "stars": 1096,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -26,12 +31,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fluid is an open-source .NET template engine based on the Liquid template language.",
+            "homepage": null,
             "id": 93786445,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-23T18:45:44Z",
+            "open_issues": 31,
             "owner": "sebastienros",
             "repo": "fluid",
-            "stars": 1774
+            "stars": 1774,
+            "topics": [
+              "dotnet",
+              "liquid",
+              "parser",
+              "shopify",
+              "template",
+              "view-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -42,12 +59,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A real .NET Handlebars engine",
+            "homepage": null,
             "id": 19408914,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-09T16:45:36Z",
+            "open_issues": 7,
             "owner": "Handlebars-Net",
             "repo": "Handlebars.Net",
-            "stars": 1460
+            "stars": 1460,
+            "topics": [
+              "c-sharp",
+              "dotnet",
+              "handlebars",
+              "handlebars-templates",
+              "mustache",
+              "template-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -58,12 +87,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ".NET Fork of MJML library with 10x performance and 100% feature parity",
+            "homepage": null,
             "id": 469120032,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-04T07:16:27Z",
+            "open_issues": 0,
             "owner": "SebastianStehle",
             "repo": "mjml-net",
-            "stars": 267
+            "stars": 267,
+            "topics": [
+              "email",
+              "mjml",
+              "mjml4",
+              "templating-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -74,12 +113,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Template engine based on Microsoft's Razor parsing engine for .NET Core",
+            "homepage": null,
             "id": 63956962,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-06T00:44:05Z",
+            "open_issues": 77,
             "owner": "toddams",
             "repo": "RazorLight",
-            "stars": 1661
+            "stars": 1661,
+            "topics": [
+              "dotnet-core",
+              "netcore",
+              "razor",
+              "razor-parsing-engine",
+              "razorengine",
+              "razorengine-alternative",
+              "template-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -90,12 +142,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast, powerful, safe and lightweight scripting language and engine for .NET",
+            "homepage": "https://scriban.github.io",
             "id": 50355666,
             "language": "C#",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-07-29T07:22:51Z",
+            "open_issues": 2,
             "owner": "scriban",
             "repo": "scriban",
-            "stars": 3963
+            "stars": 3963,
+            "topics": [
+              "handlebars",
+              "liquid",
+              "mustache",
+              "templating",
+              "templating-engine",
+              "templating-language",
+              "text-templating"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -106,12 +171,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spark is a view engine for ASP.NET MVC and Castle Project MonoRail frameworks. The idea is to allow the html to dominate the flow and any code to fit seamlessly.",
+            "homepage": null,
             "id": 148080,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-11T13:01:32Z",
+            "open_issues": 8,
             "owner": "SparkViewEngine",
             "repo": "spark",
-            "stars": 255
+            "stars": 255,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -122,12 +192,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Trimmed down {{mustache}} templates in .NET",
+            "homepage": null,
             "id": 37947067,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2023-07-19T14:24:03Z",
+            "open_issues": 19,
             "owner": "StubbleOrg",
             "repo": "Stubble",
-            "stars": 448
+            "stars": 448,
+            "topics": [
+              "generation",
+              "mustache",
+              "mustache-templating",
+              "speed",
+              "templates",
+              "text"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         }
@@ -144,12 +226,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Template Engine for Modern C++",
+            "homepage": "https://pantor.github.io/inja/",
             "id": 100109300,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-18T06:26:06Z",
+            "open_issues": 55,
             "owner": "pantor",
             "repo": "inja",
-            "stars": 1964
+            "stars": 1964,
+            "topics": [
+              "header-only",
+              "inja",
+              "jinja",
+              "json",
+              "string-template",
+              "template",
+              "template-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -160,12 +255,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jinja2 C++ (and for C++) almost full-conformance template engine implementation",
+            "homepage": "https://jinja2cpp.github.io",
             "id": 130339233,
             "language": "C++",
+            "license": "MPL-2.0",
             "last_commit": "2026-03-10T16:36:35Z",
+            "open_issues": 45,
             "owner": "jinja2cpp",
             "repo": "Jinja2Cpp",
-            "stars": 597
+            "stars": 597,
+            "topics": [
+              "c-plus-plus",
+              "cpp",
+              "cpp17",
+              "cpp20",
+              "jinja",
+              "jinja2",
+              "jinja2-templates",
+              "jinja2-templating-engine",
+              "string-formatter",
+              "string-template",
+              "template-engine",
+              "templates"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -176,12 +289,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "mstch is a complete implementation of {{mustache}} templates using modern C++",
+            "homepage": null,
             "id": 33684750,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2021-08-19T11:57:57Z",
+            "open_issues": 30,
             "owner": "no1msd",
             "repo": "mstch",
-            "stars": 597
+            "stars": 597,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -192,12 +310,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High-performance C++ engine for template rendering, JSON parsing, custom memory management, and STL-free runtime utilities.",
+            "homepage": null,
             "id": 289796291,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-27T14:14:27Z",
+            "open_issues": 0,
             "owner": "HaniAmmar",
             "repo": "Qentem-Engine",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "arbitrary-precision",
+              "bigint",
+              "cpp",
+              "embedded",
+              "ftoa",
+              "hashtable",
+              "html",
+              "json",
+              "strtod",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         }
@@ -214,12 +348,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTML template engine for Go",
+            "homepage": null,
             "id": 21791270,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2018-06-17T06:37:00Z",
+            "open_issues": 29,
             "owner": "yosssi",
             "repo": "ace",
-            "stars": 838
+            "stars": 838,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -230,12 +369,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Amber is an elegant templating engine for Go Programming Language, inspired from HAML and Jade",
+            "homepage": null,
             "id": 6480193,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2020-10-13T09:28:15Z",
+            "open_issues": 24,
             "owner": "eknkc",
             "repo": "amber",
-            "stars": 920
+            "stars": 920,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -246,12 +390,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An ERB-style templating language for Go.",
+            "homepage": null,
             "id": 17113616,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-03-15T07:38:13Z",
+            "open_issues": 10,
             "owner": "benbjohnson",
             "repo": "ego",
-            "stars": 586
+            "stars": 586,
+            "topics": [
+              "erb",
+              "go",
+              "template-language"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -262,12 +415,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Razor view engine for go",
+            "homepage": null,
             "id": 19336908,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-01T04:15:26Z",
+            "open_issues": 1,
             "owner": "sipin",
             "repo": "gorazor",
-            "stars": 883
+            "stars": 883,
+            "topics": [
+              "fast",
+              "go",
+              "template-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -278,12 +440,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A handy, fast and powerful go template engine.",
+            "homepage": "https://shiyanhui.github.io/hero",
             "id": 79034512,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2020-01-09T01:41:22Z",
+            "open_issues": 28,
             "owner": "yann-shi",
             "repo": "hero",
-            "stars": 1564
+            "stars": 1564,
+            "topics": [
+              "go",
+              "hero",
+              "template-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -294,12 +465,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jade.go - pug template engine for Go (golang) ",
+            "homepage": null,
             "id": 30748934,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-12-25T00:24:44Z",
+            "open_issues": 11,
             "owner": "Joker",
             "repo": "jade",
-            "stars": 368
+            "stars": 368,
+            "topics": [
+              "go",
+              "golang",
+              "golang-library",
+              "html",
+              "jade",
+              "pug",
+              "pug-template-engine",
+              "template",
+              "template-engine",
+              "templates"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -310,12 +497,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jet  template engine",
+            "homepage": null,
             "id": 55167435,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T07:01:19Z",
+            "open_issues": 21,
             "owner": "CloudyKit",
             "repo": "jet",
-            "stars": 1401
+            "stars": 1401,
+            "topics": [
+              "golang",
+              "jet",
+              "jet-template-engine",
+              "template-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -326,12 +523,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Liquid template engine in Go",
+            "homepage": "https://godoc.org/github.com/osteele/liquid",
             "id": 95456498,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-17T05:59:43Z",
+            "open_issues": 7,
             "owner": "osteele",
             "repo": "liquid",
-            "stars": 353
+            "stars": 353,
+            "topics": [
+              "golang",
+              "golang-package",
+              "liquid",
+              "liquid-templating-engine",
+              "template-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -342,12 +550,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The mustache template language in Go",
+            "homepage": null,
             "id": 453807,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-04-28T16:34:44Z",
+            "open_issues": 34,
             "owner": "hoisie",
             "repo": "mustache",
-            "stars": 1118
+            "stars": 1118,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -358,12 +571,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Django-syntax like template-engine for Go",
+            "homepage": "https://pongo2.dev",
             "id": 12311467,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-05-02T14:30:49Z",
+            "open_issues": 70,
             "owner": "flosch",
             "repo": "pongo2",
-            "stars": 3082
+            "stars": 3082,
+            "topics": [
+              "django",
+              "go",
+              "golang",
+              "golang-library",
+              "pongo2",
+              "template",
+              "template-engine",
+              "template-language",
+              "templates"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -374,12 +602,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths. Up to 20x faster than html/template",
+            "homepage": null,
             "id": 53277717,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-07-21T02:16:20Z",
+            "open_issues": 41,
             "owner": "valyala",
             "repo": "quicktemplate",
-            "stars": 3325
+            "stars": 3325,
+            "topics": [
+              "fast",
+              "golang",
+              "template-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -390,12 +627,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Handlebars for golang",
+            "homepage": null,
             "id": 34390866,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-06-19T12:32:54Z",
+            "open_issues": 0,
             "owner": "aymerick",
             "repo": "raymond",
-            "stars": 642
+            "stars": 642,
+            "topics": [
+              "go",
+              "handlebars"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -406,12 +651,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go implementation for Soy templates (Google Closure templates)",
+            "homepage": null,
             "id": 15195776,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-03-19T17:16:59Z",
+            "open_issues": 6,
             "owner": "robfig",
             "repo": "soy",
-            "stars": 177
+            "stars": 177,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         }
@@ -428,12 +678,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache Freemarker",
+            "homepage": "https://freemarker.apache.org/",
             "id": 41902290,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T20:57:09Z",
+            "open_issues": 5,
             "owner": "apache",
             "repo": "freemarker",
-            "stars": 1111
+            "stars": 1111,
+            "topics": [
+              "freemarker"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -444,12 +701,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mirror of Apache Velocity Engine",
+            "homepage": null,
             "id": 14612016,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-14T16:59:56Z",
+            "open_issues": 0,
             "owner": "apache",
             "repo": "velocity-engine",
-            "stars": 415
+            "stars": 415,
+            "topics": [
+              "java",
+              "library",
+              "velocity"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -460,12 +726,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":rocket: Lightning fast and elegant mvc framework for Java8",
+            "homepage": "https://lets-blade.github.io",
             "id": 37173512,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-15T16:23:50Z",
+            "open_issues": 14,
             "owner": "lets-blade",
             "repo": "blade",
-            "stars": 5875
+            "stars": 5875,
+            "topics": [
+              "blade",
+              "java8",
+              "mvc-framework",
+              "netty4",
+              "restful",
+              "template-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -476,12 +754,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A client- and server-side templating system that helps you dynamically build reusable HTML and UI elements",
+            "homepage": null,
             "id": 18845068,
             "language": "Java",
-            "last_commit": "2026-08-28T16:47:07Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T23:54:03Z",
+            "open_issues": 279,
             "owner": "google",
             "repo": "closure-templates",
-            "stars": 698
+            "stars": 698,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -492,12 +775,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Logic-less and semantic Mustache templates with Java",
+            "homepage": "http://jknack.github.io/handlebars.java",
             "id": 4459604,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-17T21:16:40Z",
+            "open_issues": 140,
             "owner": "jknack",
             "repo": "handlebars.java",
-            "stars": 1562
+            "stars": 1562,
+            "topics": [
+              "handlebars",
+              "template-engine",
+              "templates"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -508,12 +800,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HtmlFlow Java DSL to write typesafe HTML",
+            "homepage": "https://htmlflow.org/",
             "id": 3868521,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-08-14T19:41:11Z",
+            "open_issues": 13,
             "owner": "xmlet",
             "repo": "HtmlFlow",
-            "stars": 175
+            "stars": 176,
+            "topics": [
+              "dsl",
+              "fluent-api",
+              "java",
+              "typesafe"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -524,12 +826,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jinja template engine for Java",
+            "homepage": null,
             "id": 25169896,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-03T14:33:34Z",
+            "open_issues": 136,
             "owner": "HubSpot",
             "repo": "jinjava",
-            "stars": 785
+            "stars": 785,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -540,12 +847,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Java implementation of the Mustache templating language.",
+            "homepage": null,
             "id": 1019993,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-14T07:22:54Z",
+            "open_issues": 15,
             "owner": "samskivert",
             "repo": "jmustache",
-            "stars": 881
+            "stars": 881,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -556,12 +868,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java type safe statically compiled mustache",
+            "homepage": null,
             "id": 551030676,
             "language": "Java",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-04-15T01:23:39Z",
+            "open_issues": 38,
             "owner": "jstachio",
             "repo": "jstachio",
-            "stars": 330
+            "stars": 330,
+            "topics": [
+              "annotation-processor",
+              "dropwizard",
+              "java",
+              "jooby",
+              "mustache",
+              "spring",
+              "template-engine",
+              "type-safe"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -572,12 +898,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Secure and speedy templates for Java and Kotlin.",
+            "homepage": "https://jte.gg/",
             "id": 256592001,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-09T21:25:08Z",
+            "open_issues": 54,
             "owner": "casid",
             "repo": "jte",
-            "stars": 1132
+            "stars": 1132,
+            "topics": [
+              "html",
+              "intellij",
+              "java",
+              "kotlin",
+              "server-side-rendering",
+              "template-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -588,12 +926,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manifold is a Java compiler plugin, its features include Metaprogramming, Properties, Extension Methods, Operator Overloading, Templates, a Preprocessor, and more.",
+            "homepage": "http://manifold.systems/",
             "id": 93584426,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-19T15:02:27Z",
+            "open_issues": 111,
             "owner": "manifold-systems",
             "repo": "manifold",
-            "stars": 2761
+            "stars": 2762,
+            "topics": [
+              "android-studio",
+              "delegation",
+              "duck-typing",
+              "extension-methods",
+              "graphql",
+              "graphql-java",
+              "intellij",
+              "java",
+              "java-development",
+              "java-sql",
+              "java-tooling",
+              "js-java-interoperability",
+              "json",
+              "manifold",
+              "metaprogramming",
+              "preprocessor",
+              "reflection-framework",
+              "structural-typing",
+              "template-engine",
+              "type-providers"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -604,12 +968,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of mustache.js for Java",
+            "homepage": "http://www.javarants.com/the-ideal-web-application-templating-system-b301fa4a1f49",
             "id": 645237,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-16T20:52:13Z",
+            "open_issues": 27,
             "owner": "spullara",
             "repo": "mustache.java",
-            "stars": 1953
+            "stars": 1953,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -620,12 +989,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java Template Engine",
+            "homepage": "https://pebbletemplates.io",
             "id": 7334654,
             "language": "Java",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T17:11:03Z",
+            "open_issues": 28,
             "owner": "PebbleTemplates",
             "repo": "pebble",
-            "stars": 1195
+            "stars": 1195,
+            "topics": [
+              "java",
+              "java-template-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -636,12 +1013,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a pug implementation written in Java (formerly known as jade)",
+            "homepage": null,
             "id": 296632049,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-08-04T11:31:04Z",
+            "open_issues": 5,
             "owner": "neuland",
             "repo": "pug4j",
-            "stars": 77
+            "stars": 77,
+            "topics": [
+              "java",
+              "template-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -652,12 +1037,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java 8 optimized, memory efficient, speedy template engine producing statically typed, plain java objects",
+            "homepage": null,
             "id": 32427215,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-01-21T15:33:27Z",
+            "open_issues": 48,
             "owner": "fizzed",
             "repo": "rocker",
-            "stars": 782
+            "stars": 782,
+            "topics": [
+              "java",
+              "templating",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -668,12 +1062,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Thymeleaf is a modern server-side Java template engine for both web and standalone environments.",
+            "homepage": "http://www.thymeleaf.org",
             "id": 4385294,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-22T22:09:16Z",
+            "open_issues": 40,
             "owner": "thymeleaf",
             "repo": "thymeleaf",
-            "stars": 2979
+            "stars": 2979,
+            "topics": [
+              "html",
+              "java",
+              "javascript",
+              "server-side-rendering",
+              "template-engine",
+              "thymeleaf",
+              "thymeleaf-template-engine",
+              "xml"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -684,12 +1092,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Mustache/handlebars templating engine in Java.",
+            "homepage": null,
             "id": 10064418,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-10T21:19:55Z",
+            "open_issues": 12,
             "owner": "trimou",
             "repo": "trimou",
-            "stars": 88
+            "stars": 88,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         }
@@ -706,12 +1119,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ".dom is a tiny (512 byte) template engine that uses virtual DOM and some of react principles",
+            "homepage": null,
             "id": 80664559,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-16T22:47:43Z",
+            "open_issues": 14,
             "owner": "wavesoft",
             "repo": "dot-dom",
-            "stars": 809
+            "stars": 809,
+            "topics": [
+              "es6",
+              "es6-javascript",
+              "iot",
+              "javascript",
+              "template-engine",
+              "virtual-dom",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -722,12 +1148,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High performance JavaScript templating engine",
+            "homepage": "https://goofychris.github.io/art-template/",
             "id": 4534540,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-13T02:00:06Z",
+            "open_issues": 93,
             "owner": "goofychris",
             "repo": "art-template",
-            "stars": 9850
+            "stars": 9850,
+            "topics": [
+              "express",
+              "javascript",
+              "koa",
+              "nodejs",
+              "template-engine",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -738,12 +1176,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast and simple report generator, from JSON to pdf, xslx, docx, odt...",
+            "homepage": "https://carbone.io",
             "id": 86835227,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-07T23:05:21Z",
+            "open_issues": 54,
             "owner": "carboneio",
             "repo": "carbone",
-            "stars": 2097
+            "stars": 2097,
+            "topics": [
+              "carbone",
+              "document-conversion",
+              "javascript",
+              "libreoffice",
+              "microsoft-office",
+              "multilingual",
+              "nodejs",
+              "pdf-generation",
+              "report-generator",
+              "template-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -754,12 +1208,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Template engine consolidation library for node.js",
+            "homepage": null,
             "id": 2906168,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-12-21T08:02:38Z",
+            "open_issues": 48,
             "owner": "tj",
             "repo": "consolidate.js",
-            "stars": 3467
+            "stars": 3467,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -770,12 +1229,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The fastest + concise javascript template engine for nodejs and browsers. Partials, custom delimiters and more. ",
+            "homepage": null,
             "id": 1239398,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-11-02T13:32:48Z",
+            "open_issues": 31,
             "owner": "olado",
             "repo": "doT",
-            "stars": 5043
+            "stars": 5043,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -786,12 +1250,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Asynchronous Javascript templating for the browser and server",
+            "homepage": "http://dustjs.com",
             "id": 3813151,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-10-24T12:07:03Z",
+            "open_issues": 82,
             "owner": "linkedin",
             "repo": "dustjs",
-            "stars": 2902
+            "stars": 2902,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -802,12 +1271,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fastest JavaScript template engine with embedded CoffeeScript syntax",
+            "homepage": "http://ectjs.com",
             "id": 5732788,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-09-26T06:07:18Z",
+            "open_issues": 52,
             "owner": "baryshev",
             "repo": "ect",
-            "stars": 616
+            "stars": 616,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -818,12 +1292,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Embedded JavaScript templates -- http://ejs.co",
+            "homepage": null,
             "id": 28671602,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-10T19:03:48Z",
+            "open_issues": 28,
             "owner": "mde",
             "repo": "ejs",
-            "stars": 8121
+            "stars": 8123,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -834,12 +1313,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimal templating on steroids.",
+            "homepage": "http://handlebarsjs.com",
             "id": 809601,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-24T23:40:45Z",
+            "open_issues": 115,
             "owner": "handlebars-lang",
             "repo": "handlebars.js",
-            "stars": 18670
+            "stars": 18671,
+            "topics": [
+              "handlebars",
+              "mustache",
+              "templates"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -850,12 +1338,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A compiler for the Mustache templating language",
+            "homepage": "http://twitter.github.io/hogan.js",
             "id": 3029324,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-10T11:35:08Z",
+            "open_issues": 38,
             "owner": "twitter",
             "repo": "hogan.js",
-            "stars": 5124
+            "stars": 5124,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -866,12 +1359,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Small template engine based on Zope TAL, using data attributes",
+            "homepage": null,
             "id": 274370298,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T23:00:55Z",
+            "open_issues": 0,
             "owner": "StefanoBalocco",
             "repo": "jTDAL",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "javascript",
+              "tal",
+              "template-engine",
+              "template-engine-html",
+              "template-engine-js",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -882,12 +1387,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern JavaScript utility library delivering modularity, performance, & extras.",
+            "homepage": "https://lodash.com/",
             "id": 3955647,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-03T19:48:01Z",
+            "open_issues": 106,
             "owner": "lodash",
             "repo": "lodash",
-            "stars": 61283
+            "stars": 61282,
+            "topics": [
+              "javascript",
+              "lodash",
+              "modules",
+              "utilities"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -898,12 +1413,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A declarative, HTML-based language that makes building web apps fun",
+            "homepage": "https://markojs.com",
             "id": 15720445,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T20:41:14Z",
+            "open_issues": 31,
             "owner": "marko-js",
             "repo": "marko",
-            "stars": 14409
+            "stars": 14410,
+            "topics": [
+              "client-side-rendering",
+              "dom",
+              "frontend",
+              "isomorphic",
+              "javascript",
+              "nodejs",
+              "server-side-rendering",
+              "ui-components",
+              "vdom"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -914,12 +1444,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MJML: the only framework that makes responsive email easy",
+            "homepage": "https://mjml.io",
             "id": 50586840,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T14:54:36Z",
+            "open_issues": 69,
             "owner": "mjmlio",
             "repo": "mjml",
-            "stars": 18212
+            "stars": 18212,
+            "topics": [
+              "email",
+              "email-boilerplate",
+              "email-campaigns",
+              "mjml",
+              "responsive",
+              "responsive-email"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -930,12 +1472,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)",
+            "homepage": "https://mozilla.github.io/nunjucks/",
             "id": 5351666,
             "language": "JavaScript",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-02-07T15:11:07Z",
+            "open_issues": 361,
             "owner": "mozilla",
             "repo": "nunjucks",
-            "stars": 8988
+            "stars": 8988,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -946,12 +1493,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimal templating with {{mustaches}} in JavaScript",
+            "homepage": "https://mustache.github.io",
             "id": 326688,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-06-14T19:54:48Z",
+            "open_issues": 120,
             "owner": "janl",
             "repo": "mustache.js",
-            "stars": 16723
+            "stars": 16722,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -962,12 +1514,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pug – robust, elegant, feature rich template engine for Node.js",
+            "homepage": "https://pugjs.org",
             "id": 734934,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-03-13T15:12:43Z",
+            "open_issues": 333,
             "owner": "pugjs",
             "repo": "pug",
-            "stars": 21853
+            "stars": 21853,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -978,12 +1535,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight data binding library.",
+            "homepage": null,
             "id": 4068818,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-21T13:24:33Z",
+            "open_issues": 140,
             "owner": "mikeric",
             "repo": "rivets",
-            "stars": 3220
+            "stars": 3220,
+            "topics": [
+              "coffeescript",
+              "databinding",
+              "javascript",
+              "template-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -994,12 +1561,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Take a swig of the best template engine for JavaScript.",
+            "homepage": null,
             "id": 2160835,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-06-13T02:06:30Z",
+            "open_issues": 91,
             "owner": "paularmstrong",
             "repo": "swig",
-            "stars": 3092
+            "stars": 3092,
+            "topics": [
+              "unmaintained",
+              "unmaintained-dont-use"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1010,12 +1585,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JS implementation of the Twig Templating Language",
+            "homepage": null,
             "id": 2550451,
             "language": "JavaScript",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-18T15:47:54Z",
+            "open_issues": 56,
             "owner": "twigjs",
             "repo": "twig.js",
-            "stars": 1934
+            "stars": 1934,
+            "topics": [
+              "twig",
+              "twigjs"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1026,12 +1609,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "velocity for js",
+            "homepage": null,
             "id": 6005775,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-20T07:08:40Z",
+            "open_issues": 3,
             "owner": "shepherdwind",
             "repo": "velocity.js",
-            "stars": 615
+            "stars": 615,
+            "topics": [
+              "javascript",
+              "velocity"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         }
@@ -1048,12 +1639,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Templating Engine (HTML) for Lua and OpenResty.",
+            "homepage": null,
             "id": 17054544,
             "language": "Lua",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-07-21T13:39:41Z",
+            "open_issues": 15,
             "owner": "bungle",
             "repo": "lua-resty-template",
-            "stars": 923
+            "stars": 923,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1064,12 +1660,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mustache templates for Lua",
+            "homepage": "http://olivinelabs.com/lustache",
             "id": 5143273,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2022-08-16T02:49:55Z",
+            "open_issues": 14,
             "owner": "Olivine-Labs",
             "repo": "lustache",
-            "stars": 262
+            "stars": 262,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         }
@@ -1086,12 +1687,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Laravel is a web application framework with expressive, elegant syntax.",
+            "homepage": "https://laravel.com",
             "id": 7548986,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-28T14:38:22Z",
+            "open_issues": 95,
             "owner": "laravel",
             "repo": "framework",
-            "stars": 34888
+            "stars": 34887,
+            "topics": [
+              "framework",
+              "laravel",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1102,12 +1712,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The standalone version Blade Template Engine without Laravel in a single php file and without dependencies",
+            "homepage": "https://www.escuelainformatica.cl/",
             "id": 60738162,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2025-09-03T20:51:19Z",
+            "open_issues": 17,
             "owner": "EFTEC",
             "repo": "BladeOne",
-            "stars": 829
+            "stars": 829,
+            "topics": [
+              "blade-template",
+              "laravel",
+              "loop",
+              "php",
+              "standalone",
+              "template-engine",
+              "view"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1118,12 +1741,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[UNMAINTAINED] php template engine",
+            "homepage": "http://dwoo.org",
             "id": 12811213,
             "language": "PHP",
+            "license": "LGPL-3.0",
             "last_commit": "2019-10-11T00:07:46Z",
+            "open_issues": 17,
             "owner": "dwoo-project",
             "repo": "dwoo",
-            "stars": 167
+            "stars": 167,
+            "topics": [
+              "dwoo",
+              "php53",
+              "php7",
+              "template-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1134,12 +1767,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Template Engine for PHP.",
+            "homepage": null,
             "id": 11018184,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-26T09:09:30Z",
+            "open_issues": 19,
             "owner": "fenom-template",
             "repo": "fenom",
-            "stars": 445
+            "stars": 445,
+            "topics": [
+              "fenom",
+              "php",
+              "template-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1150,12 +1792,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "☕ Latte: the safest & truly intuitive templates for PHP. Engine for those who want the most secure PHP sites.",
+            "homepage": "https://latte.nette.org",
             "id": 4732503,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-31T18:01:34Z",
+            "open_issues": 26,
             "owner": "nette",
             "repo": "latte",
-            "stars": 1291
+            "stars": 1291,
+            "topics": [
+              "content-aware",
+              "html",
+              "latte",
+              "nette",
+              "nette-framework",
+              "php",
+              "safety",
+              "security",
+              "security-hole",
+              "template-engine",
+              "xss"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1166,12 +1825,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Mustache implementation in PHP.",
+            "homepage": "http://mustache.github.io/",
             "id": 569670,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-07-28T06:29:58Z",
+            "open_issues": 2,
             "owner": "bobthecow",
             "repo": "mustache.php",
-            "stars": 3286
+            "stars": 3286,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1182,12 +1846,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple template engine.",
+            "homepage": null,
             "id": 378226,
             "language": "PHP",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T17:00:05Z",
+            "open_issues": 1,
             "owner": "sebastianbergmann",
             "repo": "php-text-template",
-            "stars": 7426
+            "stars": 7426,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1198,12 +1867,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Native PHP template system",
+            "homepage": "https://platesphp.com",
             "id": 11359294,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-01-10T05:18:36Z",
+            "open_issues": 29,
             "owner": "thephpleague",
             "repo": "plates",
-            "stars": 1529
+            "stars": 1529,
+            "topics": [
+              "native-php-templates",
+              "php7",
+              "templates"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1214,12 +1892,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The easiest Template Engine for PHP",
+            "homepage": "https://feulf.github.io/raintpl",
             "id": 3054463,
             "language": "PHP",
+            "license": null,
             "last_commit": "2022-12-26T18:03:35Z",
+            "open_issues": 48,
             "owner": "feulf",
             "repo": "raintpl3",
-            "stars": 252
+            "stars": 252,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1230,12 +1913,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Savant: The Simple, Elegant Template System for PHP",
+            "homepage": null,
             "id": 15704866,
             "language": "PHP",
+            "license": null,
             "last_commit": "2016-11-30T02:56:01Z",
+            "open_issues": 3,
             "owner": "saltybeagle",
             "repo": "Savant3",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1246,12 +1934,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Smarty is a template engine for PHP, facilitating the separation of presentation (HTML/CSS) from application logic.",
+            "homepage": null,
             "id": 25987947,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T19:49:11Z",
+            "open_issues": 121,
             "owner": "smarty-php",
             "repo": "smarty",
-            "stars": 2347
+            "stars": 2347,
+            "topics": [
+              "php",
+              "smarty"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1262,12 +1958,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TBS is a PHP template engine for pro and beginners. Only 1 class with few methods properties, but it can do may things for any text templates, including HTML and XML. The only engine that enables W3C compliant templates. It has many plugins including OpenTBS.",
+            "homepage": "http://www.tinybutstrong.com",
             "id": 42554235,
             "language": "PHP",
+            "license": null,
             "last_commit": "2026-06-13T23:18:46Z",
+            "open_issues": 12,
             "owner": "Skrol29",
             "repo": "tinybutstrong",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "php",
+              "template-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1278,12 +1982,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Twig, the flexible, fast, and secure template language for PHP",
+            "homepage": "https://twig.symfony.com/",
             "id": 330275,
             "language": "PHP",
-            "last_commit": "2026-08-28T17:14:09Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-28T22:19:36Z",
+            "open_issues": 38,
             "owner": "twigphp",
             "repo": "Twig",
-            "stars": 8373
+            "stars": 8373,
+            "topics": [
+              "php",
+              "template-engine",
+              "template-language",
+              "templating",
+              "twig"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1294,12 +2009,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Volt template engine.",
+            "homepage": null,
             "id": 556993089,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-27T17:56:52Z",
+            "open_issues": 0,
             "owner": "phalcon",
             "repo": "volt",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         }
@@ -1316,12 +2036,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast HTML/XML template engine for Python",
+            "homepage": "https://chameleon.readthedocs.io",
             "id": 1390870,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-12T09:00:29Z",
+            "open_issues": 23,
             "owner": "malthe",
             "repo": "chameleon",
-            "stars": 185
+            "stars": 185,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1332,12 +2057,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cheetah3 is a free (MIT) and open source template engine for Python.",
+            "homepage": "https://cheetahtemplate.org/",
             "id": 107327233,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-08T14:54:55Z",
+            "open_issues": 16,
             "owner": "CheetahTemplate3",
             "repo": "cheetah3",
-            "stars": 148
+            "stars": 148,
+            "topics": [
+              "cheetahtemplate",
+              "mit-license",
+              "python",
+              "python2",
+              "python3",
+              "template-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1348,12 +2085,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python implementation of mustache",
+            "homepage": null,
             "id": 25951460,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-08-24T11:56:15Z",
+            "open_issues": 40,
             "owner": "noahmorrison",
             "repo": "chevron",
-            "stars": 555
+            "stars": 555,
+            "topics": [
+              "mustache",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1364,12 +2109,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python toolkit for generation of output for the web",
+            "homepage": "http://genshi.edgewall.org",
             "id": 1822630,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-17T13:46:04Z",
+            "open_issues": 10,
             "owner": "edgewall",
             "repo": "genshi",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "python",
+              "templating-language"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1380,12 +2133,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A very fast and expressive template engine.",
+            "homepage": "https://jinja.palletsprojects.com",
             "id": 994551,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-06-14T20:35:04Z",
+            "open_issues": 102,
             "owner": "pallets",
             "repo": "jinja",
-            "stars": 11754
+            "stars": 11754,
+            "topics": [
+              "jinja",
+              "jinja2",
+              "pallets",
+              "python",
+              "template-engine",
+              "templates"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1396,12 +2161,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jsonnet - The data templating language",
+            "homepage": "http://jsonnet.org",
             "id": 22527161,
             "language": "Jsonnet",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-30T14:23:57Z",
+            "open_issues": 210,
             "owner": "google",
             "repo": "jsonnet",
-            "stars": 7563
+            "stars": 7563,
+            "topics": [
+              "config",
+              "configuration",
+              "functional",
+              "json",
+              "jsonnet"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1412,12 +2188,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python XML-based template engine with Genshi-like syntax and Jinja-style blocks",
+            "homepage": null,
             "id": 10842243,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-05-05T05:24:03Z",
+            "open_issues": 9,
             "owner": "jackrosenthal",
             "repo": "kajiki",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "python",
+              "python3",
+              "template-engine",
+              "xml"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1428,12 +2214,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mako Templates for Python",
+            "homepage": "https://www.makotemplates.org",
             "id": 159240758,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-18T17:07:16Z",
+            "open_issues": 58,
             "owner": "sqlalchemy",
             "repo": "mako",
-            "stars": 452
+            "stars": 452,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1444,12 +2235,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mustache in Python",
+            "homepage": "http://mustache.github.com/",
             "id": 353831,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-09-30T16:58:49Z",
+            "open_issues": 53,
             "owner": "defunkt",
             "repo": "pystache",
-            "stars": 1314
+            "stars": 1314,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1460,12 +2256,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Templating language written for Stable Diffusion workflows. Available as an extension for the Automatic1111 WebUI.",
+            "homepage": null,
             "id": 559759491,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-07-29T18:55:32Z",
+            "open_issues": 50,
             "owner": "ThereforeGames",
             "repo": "unprompted",
-            "stars": 809
+            "stars": 809,
+            "topics": [
+              "a1111-stable-diffusion-webui",
+              "ai-art",
+              "deep-learning",
+              "gpt",
+              "gradio",
+              "img2img",
+              "python",
+              "shortcode",
+              "stable-diffusion",
+              "template-engine",
+              "text2image",
+              "txt2img",
+              "wildcards"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         }
@@ -1482,12 +2297,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTML Abstraction Markup Language - A Markup Haiku",
+            "homepage": "http://haml.info",
             "id": 426,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-27T17:19:53Z",
+            "open_issues": 13,
             "owner": "haml",
             "repo": "haml",
-            "stars": 3835
+            "stars": 3835,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1498,12 +2318,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High Performance Haml Implementation",
+            "homepage": "https://rubygems.org/gems/hamlit",
             "id": 33119874,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-13T19:11:47Z",
+            "open_issues": 0,
             "owner": "k0kubun",
             "repo": "hamlit",
-            "stars": 977
+            "stars": 977,
+            "topics": [
+              "haml",
+              "ruby",
+              "template-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1514,12 +2343,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple and fast JSON API template engine for Ruby on Rails",
+            "homepage": null,
             "id": 62391559,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-01-20T17:19:01Z",
+            "open_issues": 19,
             "owner": "amatsuda",
             "repo": "jb",
-            "stars": 1315
+            "stars": 1315,
+            "topics": [
+              "jbuilder",
+              "json",
+              "rails",
+              "template-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1530,12 +2369,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jbuilder: generate JSON objects with a Builder-style DSL",
+            "homepage": null,
             "id": 2861056,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-06-01T17:42:54Z",
+            "open_issues": 46,
             "owner": "rails",
             "repo": "jbuilder",
-            "stars": 4421
+            "stars": 4421,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1546,12 +2390,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Liquid markup language. Safe, customer facing template language for flexible web apps. ",
+            "homepage": "https://shopify.github.io/liquid/",
             "id": 15435,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-27T16:29:31Z",
+            "open_issues": 423,
             "owner": "Shopify",
             "repo": "liquid",
-            "stars": 11872
+            "stars": 11872,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1562,12 +2411,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Logic-less Ruby templates.",
+            "homepage": "http://mustache.github.io/",
             "id": 316198,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-20T10:23:10Z",
+            "open_issues": 44,
             "owner": "mustache",
             "repo": "mustache",
-            "stars": 3085
+            "stars": 3085,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         }
@@ -1584,12 +2438,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust templating with Handlebars",
+            "homepage": null,
             "id": 28298785,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-12T04:04:16Z",
+            "open_issues": 42,
             "owner": "sunng87",
             "repo": "handlebars-rust",
-            "stars": 1482
+            "stars": 1483,
+            "topics": [
+              "handlebars",
+              "handlebars-js",
+              "rust",
+              "template-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1600,12 +2464,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Liquid templating for Rust",
+            "homepage": "docs.rs/liquid",
             "id": 26390085,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T01:52:12Z",
+            "open_issues": 90,
             "owner": "cobalt-org",
             "repo": "liquid-rust",
-            "stars": 583
+            "stars": 583,
+            "topics": [
+              "liquid",
+              "rust",
+              "template-language"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1616,12 +2489,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":pencil: Compile-time HTML templates for Rust",
+            "homepage": "https://maud.lambda.xyz",
             "id": 28127585,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-25T11:45:34Z",
+            "open_issues": 64,
             "owner": "lambda-fairy",
             "repo": "maud",
-            "stars": 2625
+            "stars": 2625,
+            "topics": [
+              "macro",
+              "rust",
+              "template-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1632,12 +2514,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "mustache template library for rust",
+            "homepage": null,
             "id": 26356112,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2023-11-26T14:34:16Z",
+            "open_issues": 23,
             "owner": "nickel-org",
             "repo": "rust-mustache",
-            "stars": 224
+            "stars": 224,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1648,12 +2535,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple, small, and extremely fast template engine for Rust",
+            "homepage": "https://rust-sailfish.github.io/sailfish/",
             "id": 268711126,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-25T15:53:12Z",
+            "open_issues": 32,
             "owner": "rust-sailfish",
             "repo": "sailfish",
-            "stars": 990
+            "stars": 990,
+            "topics": [
+              "rust",
+              "template-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1664,12 +2559,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A template engine for Rust based on Jinja2/Django",
+            "homepage": "http://keats.github.io/tera/",
             "id": 39272160,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T15:40:41Z",
+            "open_issues": 8,
             "owner": "Keats",
             "repo": "tera",
-            "stars": 4297
+            "stars": 4297,
+            "topics": [
+              "django",
+              "jinja2",
+              "rust-library",
+              "template-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         }
@@ -1686,12 +2591,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A lightweight, logicless templating engine, written in Scala and inspired by Mustache",
+            "homepage": null,
             "id": 38810504,
             "language": "Scala",
+            "license": "NOASSERTION",
             "last_commit": "2023-11-13T14:22:01Z",
+            "open_issues": 0,
             "owner": "zalando",
             "repo": "beard",
-            "stars": 122
+            "stars": 122,
+            "topics": [
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1702,12 +2614,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Scala implementation of the Handlebars templating language (a superset of Mustache).",
+            "homepage": null,
             "id": 3966793,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2023-11-20T10:44:59Z",
+            "open_issues": 18,
             "owner": "mwunsch",
             "repo": "handlebars.scala",
-            "stars": 112
+            "stars": 112,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1718,12 +2635,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Typesafe HTML templates and static site generator in pure Scala",
+            "homepage": "https://sake92.github.io/hepek/",
             "id": 120210833,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-05T09:56:44Z",
+            "open_issues": 21,
             "owner": "sake92",
             "repo": "hepek",
-            "stars": 112
+            "stars": 112,
+            "topics": [
+              "bootstrap",
+              "bulma",
+              "hepek",
+              "html",
+              "htmx",
+              "http4s",
+              "katex",
+              "playframework",
+              "scala",
+              "static-site-generator",
+              "template-engine",
+              "template-library",
+              "website",
+              "zio-http"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1734,12 +2671,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ScalaTags is a small XML/HTML construction library for Scala. ",
+            "homepage": "https://com-lihaoyi.github.io/scalatags/",
             "id": 6497465,
             "language": "Scala",
+            "license": null,
             "last_commit": "2025-07-11T01:21:23Z",
+            "open_issues": 39,
             "owner": "com-lihaoyi",
             "repo": "scalatags",
-            "stars": 773
+            "stars": 773,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1750,12 +2692,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scalate is a Scala based template engine which supports HAML, Mustache and JSP, Erb and Velocity style syntaxes.",
+            "homepage": "https://scalate.github.io/scalate/",
             "id": 490893,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T04:05:28Z",
+            "open_issues": 36,
             "owner": "scalate",
             "repo": "scalate",
-            "stars": 609
+            "stars": 609,
+            "topics": [
+              "scala",
+              "template-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1766,12 +2716,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A template engine for Scala",
+            "homepage": null,
             "id": 140482086,
             "language": "Scala",
+            "license": null,
             "last_commit": "2020-11-26T16:42:43Z",
+            "open_issues": 0,
             "owner": "scala-thera",
             "repo": "thera",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "scala",
+              "static-site-generator",
+              "template-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1782,12 +2741,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Twirl is Play's default template engine",
+            "homepage": null,
             "id": 13022358,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T19:46:01Z",
+            "open_issues": 31,
             "owner": "playframework",
             "repo": "twirl",
-            "stars": 561
+            "stars": 561,
+            "topics": [
+              "playframework",
+              "sbt-plugin",
+              "scala",
+              "template-engine",
+              "template-language",
+              "template-library",
+              "twirl"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         }
@@ -1804,12 +2776,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flexible Mustache templates for Swift",
+            "homepage": "http://mustache.github.com/",
             "id": 25771686,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2025-09-02T03:51:44Z",
+            "open_issues": 15,
             "owner": "groue",
             "repo": "GRMustache.swift",
-            "stars": 628
+            "stars": 628,
+            "topics": [
+              "mustache",
+              "template-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1820,12 +2800,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stencil is a simple and powerful template language for Swift.",
+            "homepage": "https://stencil.fuller.li",
             "id": 25633649,
             "language": "Swift",
+            "license": "BSD-2-Clause",
             "last_commit": "2024-12-22T12:54:31Z",
+            "open_issues": 34,
             "owner": "stencilproject",
             "repo": "Stencil",
-            "stars": 2416
+            "stars": 2416,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         }
@@ -1842,12 +2827,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Embedded JS template engine for Node, Deno, and the browser. Lighweight, fast, and pluggable. Written in TypeScript",
+            "homepage": "https://eta.js.org",
             "id": 250142018,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-25T18:35:44Z",
+            "open_issues": 8,
             "owner": "bgub",
             "repo": "eta",
-            "stars": 1756
+            "stars": 1756,
+            "topics": [
+              "deno",
+              "deno-module",
+              "ejs-alternative",
+              "expressjs-templating-engine",
+              "javascript",
+              "nodejs",
+              "template-engine",
+              "template-engine-html",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1858,12 +2858,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, expressive, safe and Shopify compatible template engine in pure JavaScript.",
+            "homepage": "https://liquidjs.com",
             "id": 61016843,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-11T12:54:00Z",
+            "open_issues": 15,
             "owner": "harttle",
             "repo": "liquidjs",
-            "stars": 1862
+            "stars": 1862,
+            "topics": [
+              "browser",
+              "liquid",
+              "nodejs",
+              "template-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         },
@@ -1874,12 +2884,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Semi-embedded JS template engine that supports helpers, filters, partials, and template inheritance. 4KB minzipped, written in TypeScript ⛺",
+            "homepage": "https://squirrelly.js.org",
             "id": 106891753,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-16T23:23:54Z",
+            "open_issues": 25,
             "owner": "bgub",
             "repo": "squirrelly",
-            "stars": 674
+            "stars": 674,
+            "topics": [
+              "ejs-alternative",
+              "expressjs-templating-engine",
+              "handlebars",
+              "javascript",
+              "nodejs",
+              "npm-package",
+              "pug",
+              "template-engine",
+              "template-inheritance",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
         }
@@ -1888,15 +2914,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:14:53.880Z",
+    "last_updated": "2026-08-29T05:03:47.655Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of references for template engines",
+      "homepage": null,
       "id": 758307748,
       "language": "Python",
+      "license": "MIT",
       "last_commit": "2026-08-16T01:38:55Z",
+      "open_issues": 8,
       "owner": "sshailabh",
       "repo": "awesome-template-engine",
-      "stars": 73
+      "stars": 73,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "rendering-engine",
+        "rendering-engines",
+        "server-side-rendering",
+        "template-engine",
+        "template-language"
+      ]
     },
     "original_repository_sha": "49b7bea3ee44596968440a1b745eb547fbb815e1",
     "enhanced_repository": "enhansome/enhansome-template-engine",
