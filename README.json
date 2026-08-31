@@ -151,7 +151,7 @@
             "open_issues": 2,
             "owner": "scriban",
             "repo": "scriban",
-            "stars": 3963,
+            "stars": 3962,
             "topics": [
               "handlebars",
               "liquid",
@@ -532,7 +532,7 @@
             "open_issues": 7,
             "owner": "osteele",
             "repo": "liquid",
-            "stars": 353,
+            "stars": 354,
             "topics": [
               "golang",
               "golang-package",
@@ -687,7 +687,7 @@
             "open_issues": 5,
             "owner": "apache",
             "repo": "freemarker",
-            "stars": 1112,
+            "stars": 1111,
             "topics": [
               "freemarker"
             ]
@@ -710,7 +710,7 @@
             "open_issues": 0,
             "owner": "apache",
             "repo": "velocity-engine",
-            "stars": 415,
+            "stars": 416,
             "topics": [
               "java",
               "library",
@@ -759,8 +759,8 @@
             "id": 18845068,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T23:54:03Z",
-            "open_issues": 279,
+            "last_commit": "2026-08-31T17:35:53Z",
+            "open_issues": 277,
             "owner": "google",
             "repo": "closure-templates",
             "stars": 698,
@@ -835,7 +835,7 @@
             "open_issues": 136,
             "owner": "HubSpot",
             "repo": "jinjava",
-            "stars": 785,
+            "stars": 784,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
@@ -877,7 +877,7 @@
             "open_issues": 38,
             "owner": "jstachio",
             "repo": "jstachio",
-            "stars": 330,
+            "stars": 331,
             "topics": [
               "annotation-processor",
               "dropwizard",
@@ -903,8 +903,8 @@
             "id": 256592001,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-09T21:25:08Z",
-            "open_issues": 54,
+            "last_commit": "2026-08-31T10:43:49Z",
+            "open_issues": 55,
             "owner": "casid",
             "repo": "jte",
             "stars": 1134,
@@ -1071,7 +1071,7 @@
             "open_issues": 40,
             "owner": "thymeleaf",
             "repo": "thymeleaf",
-            "stars": 2978,
+            "stars": 2980,
             "topics": [
               "html",
               "java",
@@ -1157,7 +1157,7 @@
             "open_issues": 93,
             "owner": "goofychris",
             "repo": "art-template",
-            "stars": 9850,
+            "stars": 9849,
             "topics": [
               "express",
               "javascript",
@@ -1364,7 +1364,7 @@
             "id": 274370298,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-29T16:27:28Z",
+            "last_commit": "2026-08-30T18:39:54Z",
             "open_issues": 0,
             "owner": "StefanoBalocco",
             "repo": "jTDAL",
@@ -1396,7 +1396,7 @@
             "open_issues": 106,
             "owner": "lodash",
             "repo": "lodash",
-            "stars": 61278,
+            "stars": 61281,
             "topics": [
               "javascript",
               "lodash",
@@ -1418,11 +1418,11 @@
             "id": 15720445,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T14:38:11Z",
-            "open_issues": 31,
+            "last_commit": "2026-08-31T17:40:02Z",
+            "open_issues": 33,
             "owner": "marko-js",
             "repo": "marko",
-            "stars": 14410,
+            "stars": 14411,
             "topics": [
               "client-side-rendering",
               "dom",
@@ -1453,7 +1453,7 @@
             "open_issues": 69,
             "owner": "mjmlio",
             "repo": "mjml",
-            "stars": 18214,
+            "stars": 18218,
             "topics": [
               "email",
               "email-boilerplate",
@@ -1481,7 +1481,7 @@
             "open_issues": 361,
             "owner": "mozilla",
             "repo": "nunjucks",
-            "stars": 8988,
+            "stars": 8989,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
@@ -1692,11 +1692,11 @@
             "id": 7548986,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-28T14:38:22Z",
-            "open_issues": 99,
+            "last_commit": "2026-08-31T15:37:40Z",
+            "open_issues": 95,
             "owner": "laravel",
             "repo": "framework",
-            "stars": 34888,
+            "stars": 34891,
             "topics": [
               "framework",
               "laravel",
@@ -1831,7 +1831,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-07-28T06:29:58Z",
-            "open_issues": 2,
+            "open_issues": 4,
             "owner": "bobthecow",
             "repo": "mustache.php",
             "stars": 3286,
@@ -1851,7 +1851,7 @@
             "id": 378226,
             "language": "PHP",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-30T13:50:00Z",
+            "last_commit": "2026-08-31T16:35:24Z",
             "open_issues": 3,
             "owner": "sebastianbergmann",
             "repo": "php-text-template",
@@ -1876,7 +1876,7 @@
             "open_issues": 29,
             "owner": "thephpleague",
             "repo": "plates",
-            "stars": 1529,
+            "stars": 1528,
             "topics": [
               "native-php-templates",
               "php7",
@@ -2142,7 +2142,7 @@
             "open_issues": 102,
             "owner": "pallets",
             "repo": "jinja",
-            "stars": 11751,
+            "stars": 11755,
             "topics": [
               "jinja",
               "jinja2",
@@ -2399,7 +2399,7 @@
             "open_issues": 423,
             "owner": "Shopify",
             "repo": "liquid",
-            "stars": 11872,
+            "stars": 11874,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
@@ -2565,10 +2565,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-08-28T15:40:41Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "Keats",
             "repo": "tera",
-            "stars": 4298,
+            "stars": 4299,
             "topics": [
               "django",
               "jinja2",
@@ -2697,8 +2697,8 @@
             "id": 490893,
             "language": "Scala",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T04:05:28Z",
-            "open_issues": 36,
+            "last_commit": "2026-08-31T16:12:13Z",
+            "open_issues": 37,
             "owner": "scalate",
             "repo": "scalate",
             "stars": 608,
@@ -2746,8 +2746,8 @@
             "id": 13022358,
             "language": "Scala",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-24T19:46:01Z",
-            "open_issues": 31,
+            "last_commit": "2026-08-31T04:36:08Z",
+            "open_issues": 34,
             "owner": "playframework",
             "repo": "twirl",
             "stars": 561,
@@ -2785,7 +2785,7 @@
             "open_issues": 15,
             "owner": "groue",
             "repo": "GRMustache.swift",
-            "stars": 628,
+            "stars": 629,
             "topics": [
               "mustache",
               "template-engine"
@@ -2867,7 +2867,7 @@
             "open_issues": 15,
             "owner": "harttle",
             "repo": "liquidjs",
-            "stars": 1862,
+            "stars": 1864,
             "topics": [
               "browser",
               "liquid",
@@ -2914,7 +2914,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T14:58:38.428Z",
+    "last_updated": "2026-08-31T17:42:01.114Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of references for template engines",
