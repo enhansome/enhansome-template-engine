@@ -36,11 +36,11 @@
             "id": 93786445,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-23T18:45:44Z",
+            "last_commit": "2026-09-03T16:45:01Z",
             "open_issues": 31,
             "owner": "sebastienros",
             "repo": "fluid",
-            "stars": 1774,
+            "stars": 1775,
             "topics": [
               "dotnet",
               "liquid",
@@ -151,7 +151,7 @@
             "open_issues": 0,
             "owner": "scriban",
             "repo": "scriban",
-            "stars": 3966,
+            "stars": 3968,
             "topics": [
               "handlebars",
               "liquid",
@@ -231,7 +231,7 @@
             "id": 100109300,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-08-18T06:26:06Z",
+            "last_commit": "2026-09-04T06:20:33Z",
             "open_issues": 55,
             "owner": "pantor",
             "repo": "inja",
@@ -298,7 +298,7 @@
             "open_issues": 30,
             "owner": "no1msd",
             "repo": "mstch",
-            "stars": 599,
+            "stars": 597,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
@@ -506,7 +506,7 @@
             "open_issues": 21,
             "owner": "CloudyKit",
             "repo": "jet",
-            "stars": 1401,
+            "stars": 1402,
             "topics": [
               "golang",
               "jet",
@@ -529,7 +529,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-08-17T05:59:43Z",
-            "open_issues": 7,
+            "open_issues": 9,
             "owner": "osteele",
             "repo": "liquid",
             "stars": 354,
@@ -559,7 +559,7 @@
             "open_issues": 34,
             "owner": "hoisie",
             "repo": "mustache",
-            "stars": 1118,
+            "stars": 1116,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
@@ -687,7 +687,7 @@
             "open_issues": 5,
             "owner": "apache",
             "repo": "freemarker",
-            "stars": 1111,
+            "stars": 1112,
             "topics": [
               "freemarker"
             ]
@@ -759,8 +759,8 @@
             "id": 18845068,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T05:48:09Z",
-            "open_issues": 281,
+            "last_commit": "2026-09-04T14:04:30Z",
+            "open_issues": 279,
             "owner": "google",
             "repo": "closure-templates",
             "stars": 699,
@@ -831,8 +831,8 @@
             "id": 25169896,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-03T14:33:34Z",
-            "open_issues": 136,
+            "last_commit": "2026-09-03T16:40:01Z",
+            "open_issues": 137,
             "owner": "HubSpot",
             "repo": "jinjava",
             "stars": 784,
@@ -852,11 +852,11 @@
             "id": 1019993,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T07:22:52Z",
-            "open_issues": 17,
+            "last_commit": "2026-09-04T07:22:21Z",
+            "open_issues": 18,
             "owner": "samskivert",
             "repo": "jmustache",
-            "stars": 881,
+            "stars": 880,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
@@ -977,7 +977,7 @@
             "open_issues": 27,
             "owner": "spullara",
             "repo": "mustache.java",
-            "stars": 1954,
+            "stars": 1955,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
@@ -994,7 +994,7 @@
             "id": 7334654,
             "language": "Java",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-27T17:11:03Z",
+            "last_commit": "2026-09-03T16:49:32Z",
             "open_issues": 28,
             "owner": "PebbleTemplates",
             "repo": "pebble",
@@ -1071,7 +1071,7 @@
             "open_issues": 40,
             "owner": "thymeleaf",
             "repo": "thymeleaf",
-            "stars": 2982,
+            "stars": 2984,
             "topics": [
               "html",
               "java",
@@ -1238,7 +1238,7 @@
             "open_issues": 31,
             "owner": "olado",
             "repo": "doT",
-            "stars": 5044,
+            "stars": 5043,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
@@ -1301,7 +1301,7 @@
             "open_issues": 27,
             "owner": "mde",
             "repo": "ejs",
-            "stars": 8123,
+            "stars": 8124,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
@@ -1319,10 +1319,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-06-24T23:40:45Z",
-            "open_issues": 115,
+            "open_issues": 117,
             "owner": "handlebars-lang",
             "repo": "handlebars.js",
-            "stars": 18670,
+            "stars": 18671,
             "topics": [
               "handlebars",
               "mustache",
@@ -1393,10 +1393,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-07-03T19:48:01Z",
-            "open_issues": 105,
+            "open_issues": 104,
             "owner": "lodash",
             "repo": "lodash",
-            "stars": 61277,
+            "stars": 61279,
             "topics": [
               "javascript",
               "lodash",
@@ -1418,11 +1418,11 @@
             "id": 15720445,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T05:30:17Z",
-            "open_issues": 32,
+            "last_commit": "2026-09-03T22:37:39Z",
+            "open_issues": 33,
             "owner": "marko-js",
             "repo": "marko",
-            "stars": 14411,
+            "stars": 14410,
             "topics": [
               "client-side-rendering",
               "dom",
@@ -1453,7 +1453,7 @@
             "open_issues": 64,
             "owner": "mjmlio",
             "repo": "mjml",
-            "stars": 18230,
+            "stars": 18232,
             "topics": [
               "email",
               "email-boilerplate",
@@ -1481,7 +1481,7 @@
             "open_issues": 362,
             "owner": "mozilla",
             "repo": "nunjucks",
-            "stars": 8992,
+            "stars": 8993,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
@@ -1499,10 +1499,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-06-14T19:54:48Z",
-            "open_issues": 121,
+            "open_issues": 122,
             "owner": "janl",
             "repo": "mustache.js",
-            "stars": 16722,
+            "stars": 16721,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
@@ -1591,7 +1591,7 @@
             "language": "JavaScript",
             "license": "BSD-2-Clause",
             "last_commit": "2026-09-03T14:28:56Z",
-            "open_issues": 55,
+            "open_issues": 56,
             "owner": "twigjs",
             "repo": "twig.js",
             "stars": 1934,
@@ -1692,11 +1692,11 @@
             "id": 7548986,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-03T14:42:56Z",
-            "open_issues": 95,
+            "last_commit": "2026-09-04T00:12:10Z",
+            "open_issues": 97,
             "owner": "laravel",
             "repo": "framework",
-            "stars": 34893,
+            "stars": 34894,
             "topics": [
               "framework",
               "laravel",
@@ -1851,7 +1851,7 @@
             "id": 378226,
             "language": "PHP",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-01T10:44:14Z",
+            "last_commit": "2026-09-04T03:00:48Z",
             "open_issues": 1,
             "owner": "sebastianbergmann",
             "repo": "php-text-template",
@@ -1988,7 +1988,7 @@
             "language": "PHP",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-03T06:51:41Z",
-            "open_issues": 40,
+            "open_issues": 41,
             "owner": "twigphp",
             "repo": "Twig",
             "stars": 8375,
@@ -2142,7 +2142,7 @@
             "open_issues": 103,
             "owner": "pallets",
             "repo": "jinja",
-            "stars": 11763,
+            "stars": 11764,
             "topics": [
               "jinja",
               "jinja2",
@@ -2223,7 +2223,7 @@
             "open_issues": 58,
             "owner": "sqlalchemy",
             "repo": "mako",
-            "stars": 457,
+            "stars": 456,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
@@ -2399,7 +2399,7 @@
             "open_issues": 424,
             "owner": "Shopify",
             "repo": "liquid",
-            "stars": 11873,
+            "stars": 11875,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
@@ -2447,7 +2447,7 @@
             "open_issues": 43,
             "owner": "sunng87",
             "repo": "handlebars-rust",
-            "stars": 1483,
+            "stars": 1484,
             "topics": [
               "handlebars",
               "handlebars-js",
@@ -2498,7 +2498,7 @@
             "open_issues": 66,
             "owner": "lambda-fairy",
             "repo": "maud",
-            "stars": 2627,
+            "stars": 2628,
             "topics": [
               "macro",
               "rust",
@@ -2540,8 +2540,8 @@
             "id": 268711126,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-25T15:53:12Z",
-            "open_issues": 32,
+            "last_commit": "2026-09-03T22:48:23Z",
+            "open_issues": 33,
             "owner": "rust-sailfish",
             "repo": "sailfish",
             "stars": 990,
@@ -2564,7 +2564,7 @@
             "id": 39272160,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-02T19:47:33Z",
+            "last_commit": "2026-09-03T22:18:29Z",
             "open_issues": 9,
             "owner": "Keats",
             "repo": "tera",
@@ -2697,11 +2697,11 @@
             "id": 490893,
             "language": "Scala",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T22:53:32Z",
-            "open_issues": 36,
+            "last_commit": "2026-09-04T11:27:19Z",
+            "open_issues": 37,
             "owner": "scalate",
             "repo": "scalate",
-            "stars": 608,
+            "stars": 607,
             "topics": [
               "scala",
               "template-engine"
@@ -2836,7 +2836,7 @@
             "open_issues": 7,
             "owner": "bgub",
             "repo": "eta",
-            "stars": 1758,
+            "stars": 1757,
             "topics": [
               "deno",
               "deno-module",
@@ -2867,7 +2867,7 @@
             "open_issues": 16,
             "owner": "harttle",
             "repo": "liquidjs",
-            "stars": 1865,
+            "stars": 1866,
             "topics": [
               "browser",
               "liquid",
@@ -2914,7 +2914,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T14:43:07.522Z",
+    "last_updated": "2026-09-04T14:32:17.005Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of references for template engines",
