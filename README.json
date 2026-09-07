@@ -96,7 +96,7 @@
             "open_issues": 0,
             "owner": "SebastianStehle",
             "repo": "mjml-net",
-            "stars": 269,
+            "stars": 270,
             "topics": [
               "email",
               "mjml",
@@ -151,7 +151,7 @@
             "open_issues": 0,
             "owner": "scriban",
             "repo": "scriban",
-            "stars": 3969,
+            "stars": 3970,
             "topics": [
               "handlebars",
               "liquid",
@@ -378,7 +378,7 @@
             "open_issues": 24,
             "owner": "eknkc",
             "repo": "amber",
-            "stars": 920,
+            "stars": 919,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
@@ -420,7 +420,7 @@
             "id": 19336908,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-06-01T04:15:26Z",
+            "last_commit": "2026-09-07T04:06:14Z",
             "open_issues": 1,
             "owner": "sipin",
             "repo": "gorazor",
@@ -580,7 +580,7 @@
             "open_issues": 70,
             "owner": "flosch",
             "repo": "pongo2",
-            "stars": 3083,
+            "stars": 3082,
             "topics": [
               "django",
               "go",
@@ -611,7 +611,7 @@
             "open_issues": 41,
             "owner": "valyala",
             "repo": "quicktemplate",
-            "stars": 3325,
+            "stars": 3324,
             "topics": [
               "fast",
               "golang",
@@ -809,7 +809,7 @@
             "open_issues": 13,
             "owner": "xmlet",
             "repo": "HtmlFlow",
-            "stars": 176,
+            "stars": 177,
             "topics": [
               "dsl",
               "fluent-api",
@@ -1071,7 +1071,7 @@
             "open_issues": 40,
             "owner": "thymeleaf",
             "repo": "thymeleaf",
-            "stars": 2984,
+            "stars": 2985,
             "topics": [
               "html",
               "java",
@@ -1185,7 +1185,7 @@
             "open_issues": 53,
             "owner": "carboneio",
             "repo": "carbone",
-            "stars": 2099,
+            "stars": 2101,
             "topics": [
               "carbone",
               "document-conversion",
@@ -1396,7 +1396,7 @@
             "open_issues": 104,
             "owner": "lodash",
             "repo": "lodash",
-            "stars": 61276,
+            "stars": 61277,
             "topics": [
               "javascript",
               "lodash",
@@ -1422,7 +1422,7 @@
             "open_issues": 31,
             "owner": "marko-js",
             "repo": "marko",
-            "stars": 14409,
+            "stars": 14410,
             "topics": [
               "client-side-rendering",
               "dom",
@@ -1453,7 +1453,7 @@
             "open_issues": 64,
             "owner": "mjmlio",
             "repo": "mjml",
-            "stars": 18233,
+            "stars": 18235,
             "topics": [
               "email",
               "email-boilerplate",
@@ -1481,7 +1481,7 @@
             "open_issues": 362,
             "owner": "mozilla",
             "repo": "nunjucks",
-            "stars": 8994,
+            "stars": 8995,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
@@ -1523,7 +1523,7 @@
             "open_issues": 334,
             "owner": "pugjs",
             "repo": "pug",
-            "stars": 21850,
+            "stars": 21848,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
@@ -1590,11 +1590,11 @@
             "id": 2550451,
             "language": "JavaScript",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-03T14:28:56Z",
-            "open_issues": 56,
+            "last_commit": "2026-09-06T23:43:28Z",
+            "open_issues": 55,
             "owner": "twigjs",
             "repo": "twig.js",
-            "stars": 1934,
+            "stars": 1935,
             "topics": [
               "twig",
               "twigjs"
@@ -1692,11 +1692,11 @@
             "id": 7548986,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-05T16:03:00Z",
-            "open_issues": 109,
+            "last_commit": "2026-09-07T15:57:11Z",
+            "open_issues": 94,
             "owner": "laravel",
             "repo": "framework",
-            "stars": 34900,
+            "stars": 34899,
             "topics": [
               "framework",
               "laravel",
@@ -1855,7 +1855,7 @@
             "open_issues": 1,
             "owner": "sebastianbergmann",
             "repo": "php-text-template",
-            "stars": 7426,
+            "stars": 7425,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
@@ -1987,8 +1987,8 @@
             "id": 330275,
             "language": "PHP",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-05T09:35:31Z",
-            "open_issues": 43,
+            "last_commit": "2026-09-07T13:16:06Z",
+            "open_issues": 42,
             "owner": "twigphp",
             "repo": "Twig",
             "stars": 8375,
@@ -2045,7 +2045,7 @@
             "open_issues": 24,
             "owner": "malthe",
             "repo": "chameleon",
-            "stars": 186,
+            "stars": 187,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
@@ -2170,7 +2170,7 @@
             "open_issues": 210,
             "owner": "google",
             "repo": "jsonnet",
-            "stars": 7564,
+            "stars": 7565,
             "topics": [
               "config",
               "configuration",
@@ -2697,8 +2697,8 @@
             "id": 490893,
             "language": "Scala",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T10:26:12Z",
-            "open_issues": 37,
+            "last_commit": "2026-09-07T12:49:52Z",
+            "open_issues": 38,
             "owner": "scalate",
             "repo": "scalate",
             "stars": 607,
@@ -2747,7 +2747,7 @@
             "language": "Scala",
             "license": "Apache-2.0",
             "last_commit": "2026-08-31T04:36:08Z",
-            "open_issues": 40,
+            "open_issues": 41,
             "owner": "playframework",
             "repo": "twirl",
             "stars": 561,
@@ -2836,7 +2836,7 @@
             "open_issues": 7,
             "owner": "bgub",
             "repo": "eta",
-            "stars": 1757,
+            "stars": 1758,
             "topics": [
               "deno",
               "deno-module",
@@ -2864,7 +2864,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-06T11:39:56Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "harttle",
             "repo": "liquidjs",
             "stars": 1867,
@@ -2914,7 +2914,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T13:47:47.434Z",
+    "last_updated": "2026-09-07T16:02:32.661Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of references for template engines",
