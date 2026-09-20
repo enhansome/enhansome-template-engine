@@ -68,7 +68,7 @@
             "open_issues": 7,
             "owner": "Handlebars-Net",
             "repo": "Handlebars.Net",
-            "stars": 1463,
+            "stars": 1464,
             "topics": [
               "c-sharp",
               "dotnet",
@@ -147,8 +147,8 @@
             "id": 50355666,
             "language": "C#",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-05T06:48:42Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-20T12:55:39Z",
+            "open_issues": 3,
             "owner": "scriban",
             "repo": "scriban",
             "stars": 3969,
@@ -235,7 +235,7 @@
             "open_issues": 58,
             "owner": "pantor",
             "repo": "inja",
-            "stars": 1984,
+            "stars": 1985,
             "topics": [
               "header-only",
               "inja",
@@ -315,7 +315,7 @@
             "id": 289796291,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-12T13:16:07Z",
+            "last_commit": "2026-09-19T18:29:10Z",
             "open_issues": 0,
             "owner": "HaniAmmar",
             "repo": "Qentem-Engine",
@@ -580,7 +580,7 @@
             "open_issues": 71,
             "owner": "flosch",
             "repo": "pongo2",
-            "stars": 3082,
+            "stars": 3083,
             "topics": [
               "django",
               "go",
@@ -759,8 +759,8 @@
             "id": 18845068,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-19T05:34:00Z",
-            "open_issues": 284,
+            "last_commit": "2026-09-20T13:41:48Z",
+            "open_issues": 287,
             "owner": "google",
             "repo": "closure-templates",
             "stars": 701,
@@ -907,7 +907,7 @@
             "open_issues": 54,
             "owner": "casid",
             "repo": "jte",
-            "stars": 1140,
+            "stars": 1141,
             "topics": [
               "html",
               "intellij",
@@ -1071,7 +1071,7 @@
             "open_issues": 40,
             "owner": "thymeleaf",
             "repo": "thymeleaf",
-            "stars": 2987,
+            "stars": 2986,
             "topics": [
               "html",
               "java",
@@ -1301,7 +1301,7 @@
             "open_issues": 26,
             "owner": "mde",
             "repo": "ejs",
-            "stars": 8127,
+            "stars": 8126,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
@@ -1322,7 +1322,7 @@
             "open_issues": 115,
             "owner": "handlebars-lang",
             "repo": "handlebars.js",
-            "stars": 18676,
+            "stars": 18677,
             "topics": [
               "handlebars",
               "mustache",
@@ -1396,7 +1396,7 @@
             "open_issues": 106,
             "owner": "lodash",
             "repo": "lodash",
-            "stars": 61273,
+            "stars": 61271,
             "topics": [
               "javascript",
               "lodash",
@@ -1418,11 +1418,11 @@
             "id": 15720445,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T04:09:10Z",
+            "last_commit": "2026-09-19T18:00:07Z",
             "open_issues": 34,
             "owner": "marko-js",
             "repo": "marko",
-            "stars": 14415,
+            "stars": 14416,
             "topics": [
               "client-side-rendering",
               "dom",
@@ -1453,7 +1453,7 @@
             "open_issues": 57,
             "owner": "mjmlio",
             "repo": "mjml",
-            "stars": 18244,
+            "stars": 18242,
             "topics": [
               "email",
               "email-boilerplate",
@@ -1502,7 +1502,7 @@
             "open_issues": 123,
             "owner": "janl",
             "repo": "mustache.js",
-            "stars": 16723,
+            "stars": 16722,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
@@ -1570,7 +1570,7 @@
             "open_issues": 91,
             "owner": "paularmstrong",
             "repo": "swig",
-            "stars": 3091,
+            "stars": 3090,
             "topics": [
               "unmaintained",
               "unmaintained-dont-use"
@@ -1692,11 +1692,11 @@
             "id": 7548986,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-18T16:18:59Z",
-            "open_issues": 92,
+            "last_commit": "2026-09-20T13:39:36Z",
+            "open_issues": 89,
             "owner": "laravel",
             "repo": "framework",
-            "stars": 34923,
+            "stars": 34926,
             "topics": [
               "framework",
               "laravel",
@@ -1987,7 +1987,7 @@
             "id": 330275,
             "language": "PHP",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-18T17:52:13Z",
+            "last_commit": "2026-09-20T11:34:07Z",
             "open_issues": 43,
             "owner": "twigphp",
             "repo": "Twig",
@@ -2045,7 +2045,7 @@
             "open_issues": 24,
             "owner": "malthe",
             "repo": "chameleon",
-            "stars": 187,
+            "stars": 188,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
@@ -2062,7 +2062,7 @@
             "id": 107327233,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-08T14:54:55Z",
+            "last_commit": "2026-09-19T14:39:53Z",
             "open_issues": 16,
             "owner": "CheetahTemplate3",
             "repo": "cheetah3",
@@ -2142,7 +2142,7 @@
             "open_issues": 104,
             "owner": "pallets",
             "repo": "jinja",
-            "stars": 11781,
+            "stars": 11783,
             "topics": [
               "jinja",
               "jinja2",
@@ -2170,7 +2170,7 @@
             "open_issues": 214,
             "owner": "google",
             "repo": "jsonnet",
-            "stars": 7569,
+            "stars": 7570,
             "topics": [
               "config",
               "configuration",
@@ -2265,7 +2265,7 @@
             "open_issues": 50,
             "owner": "ThereforeGames",
             "repo": "unprompted",
-            "stars": 808,
+            "stars": 807,
             "topics": [
               "a1111-stable-diffusion-webui",
               "ai-art",
@@ -2378,7 +2378,7 @@
             "open_issues": 48,
             "owner": "rails",
             "repo": "jbuilder",
-            "stars": 4421,
+            "stars": 4420,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
@@ -2540,11 +2540,11 @@
             "id": 268711126,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-18T17:32:44Z",
+            "last_commit": "2026-09-19T18:20:21Z",
             "open_issues": 28,
             "owner": "rust-sailfish",
             "repo": "sailfish",
-            "stars": 991,
+            "stars": 992,
             "topics": [
               "rust",
               "template-engine"
@@ -2568,7 +2568,7 @@
             "open_issues": 4,
             "owner": "Keats",
             "repo": "tera",
-            "stars": 4307,
+            "stars": 4308,
             "topics": [
               "django",
               "jinja2",
@@ -2863,8 +2863,8 @@
             "id": 61016843,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-06T11:39:56Z",
-            "open_issues": 16,
+            "last_commit": "2026-09-20T12:22:06Z",
+            "open_issues": 14,
             "owner": "harttle",
             "repo": "liquidjs",
             "stars": 1873,
@@ -2914,7 +2914,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T13:59:09.801Z",
+    "last_updated": "2026-09-20T14:20:53.942Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of references for template engines",
