@@ -36,8 +36,8 @@
             "id": 93786445,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-30T15:21:48Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-31T11:58:18Z",
+            "open_issues": 11,
             "owner": "sebastienros",
             "repo": "fluid",
             "stars": 1790,
@@ -65,7 +65,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-10-28T02:56:12Z",
-            "open_issues": 8,
+            "open_issues": 11,
             "owner": "Handlebars-Net",
             "repo": "Handlebars.Net",
             "stars": 1466,
@@ -260,11 +260,11 @@
             "id": 130339233,
             "language": "C++",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-30T16:35:39Z",
-            "open_issues": 54,
+            "last_commit": "2026-10-31T04:11:15Z",
+            "open_issues": 50,
             "owner": "jinja2cpp",
             "repo": "Jinja2Cpp",
-            "stars": 602,
+            "stars": 601,
             "topics": [
               "c-plus-plus",
               "cpp",
@@ -449,7 +449,7 @@
             "open_issues": 28,
             "owner": "yann-shi",
             "repo": "hero",
-            "stars": 1567,
+            "stars": 1568,
             "topics": [
               "go",
               "hero",
@@ -577,7 +577,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-05-02T14:30:49Z",
-            "open_issues": 76,
+            "open_issues": 77,
             "owner": "flosch",
             "repo": "pongo2",
             "stars": 3084,
@@ -611,7 +611,7 @@
             "open_issues": 44,
             "owner": "valyala",
             "repo": "quicktemplate",
-            "stars": 3325,
+            "stars": 3326,
             "topics": [
               "fast",
               "golang",
@@ -684,7 +684,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-05T13:45:14Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "apache",
             "repo": "freemarker",
             "stars": 1116,
@@ -805,8 +805,8 @@
             "id": 3868521,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-27T15:02:19Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-30T19:04:26Z",
+            "open_issues": 14,
             "owner": "xmlet",
             "repo": "HtmlFlow",
             "stars": 178,
@@ -903,11 +903,11 @@
             "id": 256592001,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T04:30:00Z",
+            "last_commit": "2026-10-31T07:49:25Z",
             "open_issues": 38,
             "owner": "casid",
             "repo": "jte",
-            "stars": 1147,
+            "stars": 1148,
             "topics": [
               "html",
               "intellij",
@@ -1157,7 +1157,7 @@
             "open_issues": 93,
             "owner": "goofychris",
             "repo": "art-template",
-            "stars": 9840,
+            "stars": 9839,
             "topics": [
               "express",
               "javascript",
@@ -1185,7 +1185,7 @@
             "open_issues": 53,
             "owner": "carboneio",
             "repo": "carbone",
-            "stars": 2132,
+            "stars": 2133,
             "topics": [
               "carbone",
               "document-conversion",
@@ -1238,7 +1238,7 @@
             "open_issues": 31,
             "owner": "olado",
             "repo": "doT",
-            "stars": 5037,
+            "stars": 5038,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
@@ -1259,7 +1259,7 @@
             "open_issues": 82,
             "owner": "linkedin",
             "repo": "dustjs",
-            "stars": 2897,
+            "stars": 2896,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
@@ -1322,7 +1322,7 @@
             "open_issues": 118,
             "owner": "handlebars-lang",
             "repo": "handlebars.js",
-            "stars": 18690,
+            "stars": 18691,
             "topics": [
               "handlebars",
               "mustache",
@@ -1418,11 +1418,11 @@
             "id": 15720445,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T16:48:00Z",
-            "open_issues": 50,
+            "last_commit": "2026-10-31T04:21:36Z",
+            "open_issues": 51,
             "owner": "marko-js",
             "repo": "marko",
-            "stars": 14467,
+            "stars": 14468,
             "topics": [
               "client-side-rendering",
               "dom",
@@ -1453,7 +1453,7 @@
             "open_issues": 54,
             "owner": "mjmlio",
             "repo": "mjml",
-            "stars": 18284,
+            "stars": 18283,
             "topics": [
               "email",
               "email-boilerplate",
@@ -1502,7 +1502,7 @@
             "open_issues": 125,
             "owner": "janl",
             "repo": "mustache.js",
-            "stars": 16725,
+            "stars": 16723,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
@@ -1594,7 +1594,7 @@
             "open_issues": 65,
             "owner": "twigjs",
             "repo": "twig.js",
-            "stars": 1933,
+            "stars": 1932,
             "topics": [
               "twig",
               "twigjs"
@@ -1692,8 +1692,8 @@
             "id": 7548986,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-30T14:12:19Z",
-            "open_issues": 88,
+            "last_commit": "2026-10-30T21:25:00Z",
+            "open_issues": 99,
             "owner": "laravel",
             "repo": "framework",
             "stars": 34991,
@@ -1943,7 +1943,7 @@
             "open_issues": 128,
             "owner": "smarty-php",
             "repo": "smarty",
-            "stars": 2347,
+            "stars": 2348,
             "topics": [
               "php",
               "smarty"
@@ -1988,10 +1988,10 @@
             "language": "PHP",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-29T12:43:05Z",
-            "open_issues": 53,
+            "open_issues": 54,
             "owner": "twigphp",
             "repo": "Twig",
-            "stars": 8374,
+            "stars": 8375,
             "topics": [
               "php",
               "template-engine",
@@ -2014,7 +2014,7 @@
             "id": 556993089,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-28T09:40:20Z",
+            "last_commit": "2026-10-31T03:19:28Z",
             "open_issues": 0,
             "owner": "phalcon",
             "repo": "volt",
@@ -2142,7 +2142,7 @@
             "open_issues": 105,
             "owner": "pallets",
             "repo": "jinja",
-            "stars": 11806,
+            "stars": 11807,
             "topics": [
               "jinja",
               "jinja2",
@@ -2352,7 +2352,7 @@
             "open_issues": 19,
             "owner": "amatsuda",
             "repo": "jb",
-            "stars": 1314,
+            "stars": 1315,
             "topics": [
               "jbuilder",
               "json",
@@ -2399,7 +2399,7 @@
             "open_issues": 435,
             "owner": "Shopify",
             "repo": "liquid",
-            "stars": 11915,
+            "stars": 11916,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:53.880Z"
@@ -2544,7 +2544,7 @@
             "open_issues": 27,
             "owner": "rust-sailfish",
             "repo": "sailfish",
-            "stars": 995,
+            "stars": 994,
             "topics": [
               "rust",
               "template-engine"
@@ -2565,7 +2565,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-10-27T13:27:33Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "Keats",
             "repo": "tera",
             "stars": 4341,
@@ -2914,7 +2914,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T16:49:09.533Z",
+    "last_updated": "2026-10-31T15:52:01.686Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of references for template engines",
